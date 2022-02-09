@@ -1,0 +1,1551 @@
+$ ep: 0, lr: 0.00010, train loss: 1.31330, time: 2021-10-15 15:13:35:
+    ep: 0, acc4: 0.23827, corrcoef4: 0.10760, spearmanr4: 0.11181, mse4: 1.31330
+    ep: 0, acc2: 0.55153, corrcoef2: 0.09981, spearmanr2: 0.10419
+$ ep: 0, lr: 0.00010, test loss: 1.21224, time: 2021-10-15 15:15:21:
+    ep: 0, acc4: 0.24797, corrcoef4: 0.26420, spearmanr4: 0.27907, mse4: 1.21224
+    ep: 0, acc2: 0.61977, corrcoef2: 0.23280, spearmanr2: 0.24591
+$ ep: 1, lr: 0.00010, train loss: 1.12947, time: 2021-10-15 15:39:29:
+    ep: 1, acc4: 0.29035, corrcoef4: 0.36627, spearmanr4: 0.36150, mse4: 1.12947
+    ep: 1, acc2: 0.62024, corrcoef2: 0.30632, spearmanr2: 0.30219
+$ ep: 1, lr: 0.00010, test loss: 1.02254, time: 2021-10-15 15:41:19:
+    ep: 1, acc4: 0.27455, corrcoef4: 0.46681, spearmanr4: 0.46071, mse4: 1.02254
+    ep: 1, acc2: 0.67942, corrcoef2: 0.38449, spearmanr2: 0.37744
+$ ep: 2, lr: 0.00010, train loss: 1.00200, time: 2021-10-15 16:04:46:
+    ep: 2, acc4: 0.33741, corrcoef4: 0.47949, spearmanr4: 0.47188, mse4: 1.00200
+    ep: 2, acc2: 0.66722, corrcoef2: 0.40449, spearmanr2: 0.39605
+$ ep: 2, lr: 0.00010, test loss: 0.99820, time: 2021-10-15 16:06:40:
+    ep: 2, acc4: 0.34036, corrcoef4: 0.48697, spearmanr4: 0.48050, mse4: 0.99820
+    ep: 2, acc2: 0.67131, corrcoef2: 0.40852, spearmanr2: 0.40316
+$ ep: 3, lr: 0.00010, train loss: 0.97607, time: 2021-10-15 16:30:20:
+    ep: 3, acc4: 0.34839, corrcoef4: 0.50027, spearmanr4: 0.49458, mse4: 0.97607
+    ep: 3, acc2: 0.67843, corrcoef2: 0.42432, spearmanr2: 0.41883
+$ ep: 3, lr: 0.00010, test loss: 0.97681, time: 2021-10-15 16:32:10:
+    ep: 3, acc4: 0.31734, corrcoef4: 0.50035, spearmanr4: 0.50194, mse4: 0.97681
+    ep: 3, acc2: 0.68752, corrcoef2: 0.41934, spearmanr2: 0.41938
+$ ep: 4, lr: 0.00010, train loss: 0.94525, time: 2021-10-15 16:55:41:
+    ep: 4, acc4: 0.35365, corrcoef4: 0.52239, spearmanr4: 0.51971, mse4: 0.94525
+    ep: 4, acc2: 0.69082, corrcoef2: 0.44405, spearmanr2: 0.44103
+$ ep: 4, lr: 0.00010, test loss: 0.97125, time: 2021-10-15 16:57:31:
+    ep: 4, acc4: 0.34003, corrcoef4: 0.50994, spearmanr4: 0.50881, mse4: 0.97125
+    ep: 4, acc2: 0.68849, corrcoef2: 0.42466, spearmanr2: 0.42212
+$ ep: 5, lr: 0.00010, train loss: 0.92656, time: 2021-10-15 17:20:36:
+    ep: 5, acc4: 0.36204, corrcoef4: 0.53590, spearmanr4: 0.53344, mse4: 0.92656
+    ep: 5, acc2: 0.69804, corrcoef2: 0.45554, spearmanr2: 0.45206
+$ ep: 5, lr: 0.00010, test loss: 0.94636, time: 2021-10-15 17:22:27:
+    ep: 5, acc4: 0.36726, corrcoef4: 0.52494, spearmanr4: 0.52240, mse4: 0.94636
+    ep: 5, acc2: 0.69271, corrcoef2: 0.44043, spearmanr2: 0.43880
+$ ep: 6, lr: 0.00010, train loss: 0.91048, time: 2021-10-15 17:46:10:
+    ep: 6, acc4: 0.36839, corrcoef4: 0.54722, spearmanr4: 0.54555, mse4: 0.91048
+    ep: 6, acc2: 0.70800, corrcoef2: 0.46784, spearmanr2: 0.46459
+$ ep: 6, lr: 0.00010, test loss: 0.98061, time: 2021-10-15 17:47:56:
+    ep: 6, acc4: 0.37018, corrcoef4: 0.52262, spearmanr4: 0.52015, mse4: 0.98061
+    ep: 6, acc2: 0.68201, corrcoef2: 0.43926, spearmanr2: 0.43476
+$ ep: 7, lr: 0.00010, train loss: 0.89296, time: 2021-10-15 18:11:32:
+    ep: 7, acc4: 0.37302, corrcoef4: 0.55918, spearmanr4: 0.55877, mse4: 0.89296
+    ep: 7, acc2: 0.71247, corrcoef2: 0.47748, spearmanr2: 0.47534
+$ ep: 7, lr: 0.00010, test loss: 0.94514, time: 2021-10-15 18:13:19:
+    ep: 7, acc4: 0.36337, corrcoef4: 0.52926, spearmanr4: 0.52827, mse4: 0.94514
+    ep: 7, acc2: 0.70276, corrcoef2: 0.44662, spearmanr2: 0.44452
+$ ep: 8, lr: 0.00010, train loss: 0.88157, time: 2021-10-15 18:36:47:
+    ep: 8, acc4: 0.37780, corrcoef4: 0.56692, spearmanr4: 0.56759, mse4: 0.88157
+    ep: 8, acc2: 0.71247, corrcoef2: 0.48406, spearmanr2: 0.48308
+$ ep: 8, lr: 0.00010, test loss: 0.95551, time: 2021-10-15 18:38:37:
+    ep: 8, acc4: 0.38606, corrcoef4: 0.52091, spearmanr4: 0.51697, mse4: 0.95551
+    ep: 8, acc2: 0.69238, corrcoef2: 0.43623, spearmanr2: 0.43124
+$ ep: 9, lr: 0.00010, train loss: 0.86739, time: 2021-10-15 19:02:12:
+    ep: 9, acc4: 0.38275, corrcoef4: 0.57644, spearmanr4: 0.57682, mse4: 0.86739
+    ep: 9, acc2: 0.71655, corrcoef2: 0.49515, spearmanr2: 0.49437
+$ ep: 9, lr: 0.00010, test loss: 0.95125, time: 2021-10-15 19:04:03:
+    ep: 9, acc4: 0.34716, corrcoef4: 0.52398, spearmanr4: 0.52468, mse4: 0.95125
+    ep: 9, acc2: 0.69757, corrcoef2: 0.43844, spearmanr2: 0.43740
+$ ep: 10, lr: 0.00010, train loss: 0.84806, time: 2021-10-15 19:27:34:
+    ep: 10, acc4: 0.38988, corrcoef4: 0.58922, spearmanr4: 0.59057, mse4: 0.84806
+    ep: 10, acc2: 0.72510, corrcoef2: 0.50663, spearmanr2: 0.50621
+$ ep: 10, lr: 0.00010, test loss: 0.96446, time: 2021-10-15 19:29:24:
+    ep: 10, acc4: 0.39579, corrcoef4: 0.53320, spearmanr4: 0.53199, mse4: 0.96446
+    ep: 10, acc2: 0.70113, corrcoef2: 0.45116, spearmanr2: 0.44718
+$ ep: 11, lr: 0.00010, train loss: 0.83811, time: 2021-10-15 19:52:55:
+    ep: 11, acc4: 0.39702, corrcoef4: 0.59568, spearmanr4: 0.59680, mse4: 0.83811
+    ep: 11, acc2: 0.72792, corrcoef2: 0.51300, spearmanr2: 0.51254
+$ ep: 11, lr: 0.00010, test loss: 0.93953, time: 2021-10-15 19:54:44:
+    ep: 11, acc4: 0.37731, corrcoef4: 0.53170, spearmanr4: 0.52936, mse4: 0.93953
+    ep: 11, acc2: 0.69562, corrcoef2: 0.44234, spearmanr2: 0.43802
+$ ep: 12, lr: 0.00010, train loss: 0.82320, time: 2021-10-15 20:18:09:
+    ep: 12, acc4: 0.40447, corrcoef4: 0.60507, spearmanr4: 0.60574, mse4: 0.82320
+    ep: 12, acc2: 0.72925, corrcoef2: 0.51956, spearmanr2: 0.51913
+$ ep: 12, lr: 0.00010, test loss: 0.93239, time: 2021-10-15 20:19:58:
+    ep: 12, acc4: 0.40486, corrcoef4: 0.53980, spearmanr4: 0.53807, mse4: 0.93239
+    ep: 12, acc2: 0.69951, corrcoef2: 0.45508, spearmanr2: 0.45202
+$ ep: 13, lr: 0.00010, train loss: 0.79865, time: 2021-10-15 20:43:32:
+    ep: 13, acc4: 0.41310, corrcoef4: 0.62061, spearmanr4: 0.62021, mse4: 0.79865
+    ep: 13, acc2: 0.73882, corrcoef2: 0.53681, spearmanr2: 0.53522
+$ ep: 13, lr: 0.00010, test loss: 0.96758, time: 2021-10-15 20:45:21:
+    ep: 13, acc4: 0.35138, corrcoef4: 0.51599, spearmanr4: 0.51505, mse4: 0.96758
+    ep: 13, acc2: 0.68039, corrcoef2: 0.42693, spearmanr2: 0.42523
+$ ep: 14, lr: 0.00010, train loss: 0.78211, time: 2021-10-15 21:09:00:
+    ep: 14, acc4: 0.42800, corrcoef4: 0.63082, spearmanr4: 0.63128, mse4: 0.78211
+    ep: 14, acc2: 0.74643, corrcoef2: 0.54793, spearmanr2: 0.54741
+$ ep: 14, lr: 0.00010, test loss: 0.91980, time: 2021-10-15 21:10:51:
+    ep: 14, acc4: 0.35592, corrcoef4: 0.54427, spearmanr4: 0.54015, mse4: 0.91980
+    ep: 14, acc2: 0.70113, corrcoef2: 0.45711, spearmanr2: 0.45182
+$ ep: 15, lr: 0.00010, train loss: 0.77187, time: 2021-10-15 21:34:19:
+    ep: 15, acc4: 0.43075, corrcoef4: 0.63680, spearmanr4: 0.63649, mse4: 0.77187
+    ep: 15, acc2: 0.74831, corrcoef2: 0.54987, spearmanr2: 0.54903
+$ ep: 15, lr: 0.00010, test loss: 0.94673, time: 2021-10-15 21:36:09:
+    ep: 15, acc4: 0.37796, corrcoef4: 0.53176, spearmanr4: 0.53090, mse4: 0.94673
+    ep: 15, acc2: 0.68979, corrcoef2: 0.44742, spearmanr2: 0.44385
+$ ep: 16, lr: 0.00010, train loss: 0.76326, time: 2021-10-15 21:59:45:
+    ep: 16, acc4: 0.43255, corrcoef4: 0.64203, spearmanr4: 0.64138, mse4: 0.76326
+    ep: 16, acc2: 0.75122, corrcoef2: 0.55627, spearmanr2: 0.55500
+$ ep: 16, lr: 0.00010, test loss: 0.96027, time: 2021-10-15 22:01:35:
+    ep: 16, acc4: 0.42561, corrcoef4: 0.53248, spearmanr4: 0.53161, mse4: 0.96027
+    ep: 16, acc2: 0.69854, corrcoef2: 0.44735, spearmanr2: 0.44337
+$ ep: 17, lr: 0.00010, train loss: 0.74004, time: 2021-10-15 22:25:32:
+    ep: 17, acc4: 0.44925, corrcoef4: 0.65579, spearmanr4: 0.65496, mse4: 0.74004
+    ep: 17, acc2: 0.76157, corrcoef2: 0.57216, spearmanr2: 0.57104
+$ ep: 17, lr: 0.00010, test loss: 0.92991, time: 2021-10-15 22:27:18:
+    ep: 17, acc4: 0.42788, corrcoef4: 0.54794, spearmanr4: 0.54606, mse4: 0.92991
+    ep: 17, acc2: 0.70373, corrcoef2: 0.46078, spearmanr2: 0.45676
+$ ep: 18, lr: 0.00010, train loss: 0.73124, time: 2021-10-15 22:52:28:
+    ep: 18, acc4: 0.44941, corrcoef4: 0.66094, spearmanr4: 0.66023, mse4: 0.73124
+    ep: 18, acc2: 0.76298, corrcoef2: 0.57334, spearmanr2: 0.57153
+$ ep: 18, lr: 0.00010, test loss: 0.92156, time: 2021-10-15 22:54:13:
+    ep: 18, acc4: 0.41199, corrcoef4: 0.55185, spearmanr4: 0.54933, mse4: 0.92156
+    ep: 18, acc2: 0.69919, corrcoef2: 0.46587, spearmanr2: 0.46118
+$ ep: 19, lr: 0.00010, train loss: 0.71032, time: 2021-10-15 23:19:23:
+    ep: 19, acc4: 0.45686, corrcoef4: 0.67299, spearmanr4: 0.67107, mse4: 0.71032
+    ep: 19, acc2: 0.77004, corrcoef2: 0.58761, spearmanr2: 0.58529
+$ ep: 19, lr: 0.00010, test loss: 0.93727, time: 2021-10-15 23:21:09:
+    ep: 19, acc4: 0.43630, corrcoef4: 0.54633, spearmanr4: 0.54308, mse4: 0.93727
+    ep: 19, acc2: 0.70340, corrcoef2: 0.46030, spearmanr2: 0.45642
+$ ep: 20, lr: 0.00010, train loss: 0.69732, time: 2021-10-15 23:46:22:
+    ep: 20, acc4: 0.46329, corrcoef4: 0.68034, spearmanr4: 0.67796, mse4: 0.69732
+    ep: 20, acc2: 0.77161, corrcoef2: 0.59250, spearmanr2: 0.58952
+$ ep: 20, lr: 0.00010, test loss: 0.97757, time: 2021-10-15 23:48:08:
+    ep: 20, acc4: 0.42755, corrcoef4: 0.53199, spearmanr4: 0.53248, mse4: 0.97757
+    ep: 20, acc2: 0.69465, corrcoef2: 0.44821, spearmanr2: 0.44646
+$ ep: 21, lr: 0.00010, train loss: 0.67482, time: 2021-10-16 00:13:20:
+    ep: 21, acc4: 0.46745, corrcoef4: 0.69299, spearmanr4: 0.68991, mse4: 0.67482
+    ep: 21, acc2: 0.78031, corrcoef2: 0.60749, spearmanr2: 0.60338
+$ ep: 21, lr: 0.00010, test loss: 0.95141, time: 2021-10-16 00:15:06:
+    ep: 21, acc4: 0.42431, corrcoef4: 0.54130, spearmanr4: 0.53948, mse4: 0.95141
+    ep: 21, acc2: 0.70729, corrcoef2: 0.45603, spearmanr2: 0.45254
+$ ep: 22, lr: 0.00010, train loss: 0.66713, time: 2021-10-16 00:40:17:
+    ep: 22, acc4: 0.47749, corrcoef4: 0.69722, spearmanr4: 0.69405, mse4: 0.66713
+    ep: 22, acc2: 0.78431, corrcoef2: 0.60989, spearmanr2: 0.60608
+$ ep: 22, lr: 0.00010, test loss: 0.98681, time: 2021-10-16 00:42:04:
+    ep: 22, acc4: 0.38963, corrcoef4: 0.51744, spearmanr4: 0.51682, mse4: 0.98681
+    ep: 22, acc2: 0.67682, corrcoef2: 0.42684, spearmanr2: 0.42548
+$ ep: 23, lr: 0.00010, train loss: 0.65658, time: 2021-10-16 01:07:16:
+    ep: 23, acc4: 0.47835, corrcoef4: 0.70306, spearmanr4: 0.69950, mse4: 0.65658
+    ep: 23, acc2: 0.78416, corrcoef2: 0.61818, spearmanr2: 0.61377
+$ ep: 23, lr: 0.00010, test loss: 0.96074, time: 2021-10-16 01:09:02:
+    ep: 23, acc4: 0.39384, corrcoef4: 0.52860, spearmanr4: 0.52808, mse4: 0.96074
+    ep: 23, acc2: 0.68428, corrcoef2: 0.43695, spearmanr2: 0.43540
+$ ep: 24, lr: 0.00010, train loss: 0.63452, time: 2021-10-16 01:34:14:
+    ep: 24, acc4: 0.48831, corrcoef4: 0.71492, spearmanr4: 0.71072, mse4: 0.63452
+    ep: 24, acc2: 0.79490, corrcoef2: 0.62982, spearmanr2: 0.62480
+$ ep: 24, lr: 0.00010, test loss: 0.98291, time: 2021-10-16 01:36:00:
+    ep: 24, acc4: 0.43144, corrcoef4: 0.53355, spearmanr4: 0.53206, mse4: 0.98291
+    ep: 24, acc2: 0.69368, corrcoef2: 0.44859, spearmanr2: 0.44516
+$ ep: 25, lr: 0.00010, train loss: 0.62135, time: 2021-10-16 02:01:10:
+    ep: 25, acc4: 0.49231, corrcoef4: 0.72208, spearmanr4: 0.71670, mse4: 0.62135
+    ep: 25, acc2: 0.79655, corrcoef2: 0.63878, spearmanr2: 0.63219
+$ ep: 25, lr: 0.00010, test loss: 0.97649, time: 2021-10-16 02:02:57:
+    ep: 25, acc4: 0.41556, corrcoef4: 0.52794, spearmanr4: 0.52893, mse4: 0.97649
+    ep: 25, acc2: 0.69335, corrcoef2: 0.44011, spearmanr2: 0.43812
+$ ep: 26, lr: 0.00010, train loss: 0.59925, time: 2021-10-16 02:28:09:
+    ep: 26, acc4: 0.50824, corrcoef4: 0.73378, spearmanr4: 0.72921, mse4: 0.59925
+    ep: 26, acc2: 0.80667, corrcoef2: 0.64842, spearmanr2: 0.64225
+$ ep: 26, lr: 0.00010, test loss: 0.96830, time: 2021-10-16 02:29:55:
+    ep: 26, acc4: 0.40681, corrcoef4: 0.53122, spearmanr4: 0.53330, mse4: 0.96830
+    ep: 26, acc2: 0.69660, corrcoef2: 0.44632, spearmanr2: 0.44700
+$ ep: 27, lr: 0.00010, train loss: 0.59324, time: 2021-10-16 02:54:42:
+    ep: 27, acc4: 0.51161, corrcoef4: 0.73689, spearmanr4: 0.73084, mse4: 0.59324
+    ep: 27, acc2: 0.80714, corrcoef2: 0.65161, spearmanr2: 0.64419
+$ ep: 27, lr: 0.00010, test loss: 0.96222, time: 2021-10-16 02:56:28:
+    ep: 27, acc4: 0.41102, corrcoef4: 0.53692, spearmanr4: 0.53874, mse4: 0.96222
+    ep: 27, acc2: 0.68622, corrcoef2: 0.44586, spearmanr2: 0.44509
+$ ep: 28, lr: 0.00010, train loss: 0.57683, time: 2021-10-16 03:18:50:
+    ep: 28, acc4: 0.52094, corrcoef4: 0.74537, spearmanr4: 0.73953, mse4: 0.57683
+    ep: 28, acc2: 0.81545, corrcoef2: 0.66147, spearmanr2: 0.65460
+$ ep: 28, lr: 0.00010, test loss: 0.99761, time: 2021-10-16 03:20:36:
+    ep: 28, acc4: 0.41588, corrcoef4: 0.52756, spearmanr4: 0.53749, mse4: 0.99761
+    ep: 28, acc2: 0.68233, corrcoef2: 0.44198, spearmanr2: 0.44716
+$ ep: 29, lr: 0.00010, train loss: 0.55988, time: 2021-10-16 03:42:59:
+    ep: 29, acc4: 0.52165, corrcoef4: 0.75415, spearmanr4: 0.74651, mse4: 0.55988
+    ep: 29, acc2: 0.82086, corrcoef2: 0.67124, spearmanr2: 0.66180
+$ ep: 29, lr: 0.00010, test loss: 1.01100, time: 2021-10-16 03:44:46:
+    ep: 29, acc4: 0.42496, corrcoef4: 0.52009, spearmanr4: 0.52254, mse4: 1.01100
+    ep: 29, acc2: 0.68298, corrcoef2: 0.43399, spearmanr2: 0.43331
+$ ep: 30, lr: 0.00010, train loss: 0.55139, time: 2021-10-16 04:07:08:
+    ep: 30, acc4: 0.53498, corrcoef4: 0.75840, spearmanr4: 0.75195, mse4: 0.55139
+    ep: 30, acc2: 0.82392, corrcoef2: 0.67709, spearmanr2: 0.66874
+$ ep: 30, lr: 0.00010, test loss: 1.02997, time: 2021-10-16 04:08:55:
+    ep: 30, acc4: 0.39352, corrcoef4: 0.50449, spearmanr4: 0.50302, mse4: 1.02997
+    ep: 30, acc2: 0.68298, corrcoef2: 0.41693, spearmanr2: 0.41493
+$ ep: 31, lr: 0.00010, train loss: 0.53976, time: 2021-10-16 04:31:17:
+    ep: 31, acc4: 0.53286, corrcoef4: 0.76435, spearmanr4: 0.75818, mse4: 0.53976
+    ep: 31, acc2: 0.82384, corrcoef2: 0.68001, spearmanr2: 0.67168
+$ ep: 31, lr: 0.00010, test loss: 1.02009, time: 2021-10-16 04:33:03:
+    ep: 31, acc4: 0.42010, corrcoef4: 0.51726, spearmanr4: 0.51972, mse4: 1.02009
+    ep: 31, acc2: 0.69530, corrcoef2: 0.43040, spearmanr2: 0.43012
+$ ep: 32, lr: 0.00010, train loss: 0.53008, time: 2021-10-16 04:55:16:
+    ep: 32, acc4: 0.54831, corrcoef4: 0.76927, spearmanr4: 0.76281, mse4: 0.53008
+    ep: 32, acc2: 0.82839, corrcoef2: 0.68773, spearmanr2: 0.67880
+$ ep: 32, lr: 0.00010, test loss: 1.01927, time: 2021-10-16 04:56:59:
+    ep: 32, acc4: 0.40746, corrcoef4: 0.50667, spearmanr4: 0.50486, mse4: 1.01927
+    ep: 32, acc2: 0.68104, corrcoef2: 0.42172, spearmanr2: 0.41879
+$ ep: 33, lr: 0.00010, train loss: 0.51620, time: 2021-10-16 05:19:07:
+    ep: 33, acc4: 0.54800, corrcoef4: 0.77611, spearmanr4: 0.76880, mse4: 0.51620
+    ep: 33, acc2: 0.83043, corrcoef2: 0.69328, spearmanr2: 0.68333
+$ ep: 33, lr: 0.00010, test loss: 1.04422, time: 2021-10-16 05:20:50:
+    ep: 33, acc4: 0.43144, corrcoef4: 0.51913, spearmanr4: 0.52156, mse4: 1.04422
+    ep: 33, acc2: 0.69368, corrcoef2: 0.43746, spearmanr2: 0.43571
+$ ep: 34, lr: 0.00010, train loss: 0.50319, time: 2021-10-16 05:42:58:
+    ep: 34, acc4: 0.55937, corrcoef4: 0.78257, spearmanr4: 0.77659, mse4: 0.50319
+    ep: 34, acc2: 0.83686, corrcoef2: 0.70081, spearmanr2: 0.69178
+$ ep: 34, lr: 0.00010, test loss: 1.01852, time: 2021-10-16 05:44:41:
+    ep: 34, acc4: 0.44117, corrcoef4: 0.52222, spearmanr4: 0.52276, mse4: 1.01852
+    ep: 34, acc2: 0.69173, corrcoef2: 0.43720, spearmanr2: 0.43498
+$ ep: 35, lr: 0.00010, train loss: 0.50058, time: 2021-10-16 06:06:50:
+    ep: 35, acc4: 0.56408, corrcoef4: 0.78382, spearmanr4: 0.77719, mse4: 0.50058
+    ep: 35, acc2: 0.83937, corrcoef2: 0.70438, spearmanr2: 0.69531
+$ ep: 35, lr: 0.00010, test loss: 1.03254, time: 2021-10-16 06:08:34:
+    ep: 35, acc4: 0.42075, corrcoef4: 0.51456, spearmanr4: 0.51537, mse4: 1.03254
+    ep: 35, acc2: 0.68914, corrcoef2: 0.43289, spearmanr2: 0.43127
+$ ep: 36, lr: 0.00010, train loss: 0.48316, time: 2021-10-16 06:30:42:
+    ep: 36, acc4: 0.57122, corrcoef4: 0.79233, spearmanr4: 0.78549, mse4: 0.48316
+    ep: 36, acc2: 0.83835, corrcoef2: 0.71056, spearmanr2: 0.70030
+$ ep: 36, lr: 0.00010, test loss: 1.05977, time: 2021-10-16 06:32:26:
+    ep: 36, acc4: 0.41102, corrcoef4: 0.50672, spearmanr4: 0.50690, mse4: 1.05977
+    ep: 36, acc2: 0.68558, corrcoef2: 0.42545, spearmanr2: 0.42407
+$ ep: 37, lr: 0.00010, train loss: 0.48338, time: 2021-10-16 06:54:35:
+    ep: 37, acc4: 0.57161, corrcoef4: 0.79221, spearmanr4: 0.78677, mse4: 0.48338
+    ep: 37, acc2: 0.84086, corrcoef2: 0.71127, spearmanr2: 0.70266
+$ ep: 37, lr: 0.00010, test loss: 1.07733, time: 2021-10-16 06:56:18:
+    ep: 37, acc4: 0.41848, corrcoef4: 0.49971, spearmanr4: 0.50230, mse4: 1.07733
+    ep: 37, acc2: 0.68331, corrcoef2: 0.41544, spearmanr2: 0.41582
+$ ep: 38, lr: 0.00010, train loss: 0.47469, time: 2021-10-16 07:18:26:
+    ep: 38, acc4: 0.58000, corrcoef4: 0.79647, spearmanr4: 0.78969, mse4: 0.47469
+    ep: 38, acc2: 0.84573, corrcoef2: 0.71484, spearmanr2: 0.70451
+$ ep: 38, lr: 0.00010, test loss: 1.03647, time: 2021-10-16 07:20:10:
+    ep: 38, acc4: 0.40778, corrcoef4: 0.50097, spearmanr4: 0.49999, mse4: 1.03647
+    ep: 38, acc2: 0.69044, corrcoef2: 0.41765, spearmanr2: 0.41522
+$ ep: 39, lr: 0.00010, train loss: 0.46254, time: 2021-10-16 07:42:16:
+    ep: 39, acc4: 0.58737, corrcoef4: 0.80231, spearmanr4: 0.79618, mse4: 0.46254
+    ep: 39, acc2: 0.84761, corrcoef2: 0.71920, spearmanr2: 0.71001
+$ ep: 39, lr: 0.00010, test loss: 1.09111, time: 2021-10-16 07:44:01:
+    ep: 39, acc4: 0.41459, corrcoef4: 0.50257, spearmanr4: 0.50264, mse4: 1.09111
+    ep: 39, acc2: 0.69044, corrcoef2: 0.41742, spearmanr2: 0.41511
+$ ep: 40, lr: 0.00010, train loss: 0.45334, time: 2021-10-16 08:06:08:
+    ep: 40, acc4: 0.59945, corrcoef4: 0.80672, spearmanr4: 0.80099, mse4: 0.45334
+    ep: 40, acc2: 0.85467, corrcoef2: 0.72732, spearmanr2: 0.71776
+$ ep: 40, lr: 0.00010, test loss: 1.07242, time: 2021-10-16 08:07:52:
+    ep: 40, acc4: 0.40292, corrcoef4: 0.49473, spearmanr4: 0.49333, mse4: 1.07242
+    ep: 40, acc2: 0.67844, corrcoef2: 0.40683, spearmanr2: 0.40446
+$ ep: 41, lr: 0.00010, train loss: 0.45071, time: 2021-10-16 08:29:59:
+    ep: 41, acc4: 0.60047, corrcoef4: 0.80797, spearmanr4: 0.80290, mse4: 0.45071
+    ep: 41, acc2: 0.85224, corrcoef2: 0.72738, spearmanr2: 0.71866
+$ ep: 41, lr: 0.00010, test loss: 1.06658, time: 2021-10-16 08:31:43:
+    ep: 41, acc4: 0.40778, corrcoef4: 0.50106, spearmanr4: 0.50267, mse4: 1.06658
+    ep: 41, acc2: 0.68493, corrcoef2: 0.41632, spearmanr2: 0.41614
+$ ep: 42, lr: 0.00010, train loss: 0.43825, time: 2021-10-16 08:53:50:
+    ep: 42, acc4: 0.60518, corrcoef4: 0.81389, spearmanr4: 0.80894, mse4: 0.43825
+    ep: 42, acc2: 0.85294, corrcoef2: 0.73274, spearmanr2: 0.72419
+$ ep: 42, lr: 0.00010, test loss: 1.14192, time: 2021-10-16 08:55:33:
+    ep: 42, acc4: 0.38930, corrcoef4: 0.49030, spearmanr4: 0.48870, mse4: 1.14192
+    ep: 42, acc2: 0.67747, corrcoef2: 0.40440, spearmanr2: 0.40210
+$ ep: 43, lr: 0.00010, train loss: 0.42722, time: 2021-10-16 09:17:41:
+    ep: 43, acc4: 0.61153, corrcoef4: 0.81910, spearmanr4: 0.81416, mse4: 0.42722
+    ep: 43, acc2: 0.85733, corrcoef2: 0.73796, spearmanr2: 0.72926
+$ ep: 43, lr: 0.00010, test loss: 1.08140, time: 2021-10-16 09:19:25:
+    ep: 43, acc4: 0.40065, corrcoef4: 0.49173, spearmanr4: 0.49246, mse4: 1.08140
+    ep: 43, acc2: 0.67196, corrcoef2: 0.40840, spearmanr2: 0.40754
+$ ep: 44, lr: 0.00010, train loss: 0.41613, time: 2021-10-16 09:41:33:
+    ep: 44, acc4: 0.61898, corrcoef4: 0.82428, spearmanr4: 0.81809, mse4: 0.41613
+    ep: 44, acc2: 0.85780, corrcoef2: 0.74285, spearmanr2: 0.73343
+$ ep: 44, lr: 0.00010, test loss: 1.06440, time: 2021-10-16 09:43:17:
+    ep: 44, acc4: 0.41394, corrcoef4: 0.49836, spearmanr4: 0.49703, mse4: 1.06440
+    ep: 44, acc2: 0.68071, corrcoef2: 0.41375, spearmanr2: 0.41158
+$ ep: 45, lr: 0.00010, train loss: 0.40775, time: 2021-10-16 10:05:25:
+    ep: 45, acc4: 0.62345, corrcoef4: 0.82819, spearmanr4: 0.82369, mse4: 0.40775
+    ep: 45, acc2: 0.86149, corrcoef2: 0.74497, spearmanr2: 0.73689
+$ ep: 45, lr: 0.00010, test loss: 1.08690, time: 2021-10-16 10:07:08:
+    ep: 45, acc4: 0.39870, corrcoef4: 0.48743, spearmanr4: 0.48842, mse4: 1.08690
+    ep: 45, acc2: 0.67423, corrcoef2: 0.40166, spearmanr2: 0.40198
+$ ep: 46, lr: 0.00010, train loss: 0.39853, time: 2021-10-16 10:29:17:
+    ep: 46, acc4: 0.62588, corrcoef4: 0.83244, spearmanr4: 0.82725, mse4: 0.39853
+    ep: 46, acc2: 0.86792, corrcoef2: 0.75477, spearmanr2: 0.74427
+$ ep: 46, lr: 0.00010, test loss: 1.06705, time: 2021-10-16 10:31:00:
+    ep: 46, acc4: 0.40713, corrcoef4: 0.49565, spearmanr4: 0.49214, mse4: 1.06705
+    ep: 46, acc2: 0.68752, corrcoef2: 0.41272, spearmanr2: 0.40852
+$ ep: 47, lr: 0.00010, train loss: 0.39603, time: 2021-10-16 10:53:09:
+    ep: 47, acc4: 0.63514, corrcoef4: 0.83364, spearmanr4: 0.82797, mse4: 0.39603
+    ep: 47, acc2: 0.86384, corrcoef2: 0.75040, spearmanr2: 0.74069
+$ ep: 47, lr: 0.00010, test loss: 1.05178, time: 2021-10-16 10:54:52:
+    ep: 47, acc4: 0.44344, corrcoef4: 0.51850, spearmanr4: 0.51727, mse4: 1.05178
+    ep: 47, acc2: 0.69595, corrcoef2: 0.43380, spearmanr2: 0.43056
+$ ep: 48, lr: 0.00010, train loss: 0.39738, time: 2021-10-16 11:17:01:
+    ep: 48, acc4: 0.62965, corrcoef4: 0.83301, spearmanr4: 0.82937, mse4: 0.39738
+    ep: 48, acc2: 0.86533, corrcoef2: 0.75330, spearmanr2: 0.74502
+$ ep: 48, lr: 0.00010, test loss: 1.11058, time: 2021-10-16 11:18:45:
+    ep: 48, acc4: 0.41977, corrcoef4: 0.48492, spearmanr4: 0.48364, mse4: 1.11058
+    ep: 48, acc2: 0.68331, corrcoef2: 0.39970, spearmanr2: 0.39613
+$ ep: 49, lr: 0.00010, train loss: 0.38433, time: 2021-10-16 11:40:53:
+    ep: 49, acc4: 0.64243, corrcoef4: 0.83903, spearmanr4: 0.83543, mse4: 0.38433
+    ep: 49, acc2: 0.87200, corrcoef2: 0.76037, spearmanr2: 0.75118
+$ ep: 49, lr: 0.00010, test loss: 1.10073, time: 2021-10-16 11:42:38:
+    ep: 49, acc4: 0.40810, corrcoef4: 0.49851, spearmanr4: 0.49826, mse4: 1.10073
+    ep: 49, acc2: 0.68558, corrcoef2: 0.41424, spearmanr2: 0.41282
+$ ep: 50, lr: 0.00010, train loss: 0.38144, time: 2021-10-16 12:04:46:
+    ep: 50, acc4: 0.64110, corrcoef4: 0.84033, spearmanr4: 0.83722, mse4: 0.38144
+    ep: 50, acc2: 0.87012, corrcoef2: 0.75894, spearmanr2: 0.75077
+$ ep: 50, lr: 0.00010, test loss: 1.11899, time: 2021-10-16 12:06:30:
+    ep: 50, acc4: 0.40292, corrcoef4: 0.48858, spearmanr4: 0.48660, mse4: 1.11899
+    ep: 50, acc2: 0.67293, corrcoef2: 0.40454, spearmanr2: 0.40188
+$ ep: 51, lr: 0.00010, train loss: 0.36726, time: 2021-10-16 12:28:37:
+    ep: 51, acc4: 0.65475, corrcoef4: 0.84680, spearmanr4: 0.84306, mse4: 0.36726
+    ep: 51, acc2: 0.87271, corrcoef2: 0.76478, spearmanr2: 0.75527
+$ ep: 51, lr: 0.00010, test loss: 1.12572, time: 2021-10-16 12:30:21:
+    ep: 51, acc4: 0.39708, corrcoef4: 0.47886, spearmanr4: 0.47624, mse4: 1.12572
+    ep: 51, acc2: 0.67002, corrcoef2: 0.39560, spearmanr2: 0.39212
+$ ep: 52, lr: 0.00010, train loss: 0.36363, time: 2021-10-16 12:52:29:
+    ep: 52, acc4: 0.66110, corrcoef4: 0.84842, spearmanr4: 0.84484, mse4: 0.36363
+    ep: 52, acc2: 0.87514, corrcoef2: 0.76744, spearmanr2: 0.75921
+$ ep: 52, lr: 0.00010, test loss: 1.09492, time: 2021-10-16 12:54:12:
+    ep: 52, acc4: 0.42204, corrcoef4: 0.49982, spearmanr4: 0.49985, mse4: 1.09492
+    ep: 52, acc2: 0.68947, corrcoef2: 0.41407, spearmanr2: 0.41229
+$ ep: 53, lr: 0.00010, train loss: 0.36357, time: 2021-10-16 13:16:20:
+    ep: 53, acc4: 0.65396, corrcoef4: 0.84854, spearmanr4: 0.84551, mse4: 0.36357
+    ep: 53, acc2: 0.87475, corrcoef2: 0.76613, spearmanr2: 0.75758
+$ ep: 53, lr: 0.00010, test loss: 1.11699, time: 2021-10-16 13:18:04:
+    ep: 53, acc4: 0.39579, corrcoef4: 0.47143, spearmanr4: 0.47097, mse4: 1.11699
+    ep: 53, acc2: 0.67488, corrcoef2: 0.38054, spearmanr2: 0.38029
+$ ep: 54, lr: 0.00010, train loss: 0.35354, time: 2021-10-16 13:40:12:
+    ep: 54, acc4: 0.67231, corrcoef4: 0.85305, spearmanr4: 0.84965, mse4: 0.35354
+    ep: 54, acc2: 0.87992, corrcoef2: 0.77081, spearmanr2: 0.76118
+$ ep: 54, lr: 0.00010, test loss: 1.09364, time: 2021-10-16 13:41:56:
+    ep: 54, acc4: 0.43144, corrcoef4: 0.49992, spearmanr4: 0.49780, mse4: 1.09364
+    ep: 54, acc2: 0.68979, corrcoef2: 0.41501, spearmanr2: 0.41250
+$ ep: 55, lr: 0.00010, train loss: 0.35231, time: 2021-10-16 14:04:04:
+    ep: 55, acc4: 0.66180, corrcoef4: 0.85361, spearmanr4: 0.85036, mse4: 0.35231
+    ep: 55, acc2: 0.87694, corrcoef2: 0.77076, spearmanr2: 0.76233
+$ ep: 55, lr: 0.00010, test loss: 1.10354, time: 2021-10-16 14:05:47:
+    ep: 55, acc4: 0.41135, corrcoef4: 0.49721, spearmanr4: 0.49405, mse4: 1.10354
+    ep: 55, acc2: 0.68428, corrcoef2: 0.41120, spearmanr2: 0.40750
+$ ep: 56, lr: 0.00010, train loss: 0.34431, time: 2021-10-16 14:28:01:
+    ep: 56, acc4: 0.67631, corrcoef4: 0.85718, spearmanr4: 0.85372, mse4: 0.34431
+    ep: 56, acc2: 0.88424, corrcoef2: 0.77678, spearmanr2: 0.76708
+$ ep: 56, lr: 0.00010, test loss: 1.15799, time: 2021-10-16 14:29:47:
+    ep: 56, acc4: 0.40940, corrcoef4: 0.48942, spearmanr4: 0.49043, mse4: 1.15799
+    ep: 56, acc2: 0.68363, corrcoef2: 0.40714, spearmanr2: 0.40669
+$ ep: 57, lr: 0.00010, train loss: 0.33740, time: 2021-10-16 14:52:12:
+    ep: 57, acc4: 0.68055, corrcoef4: 0.86032, spearmanr4: 0.85779, mse4: 0.33740
+    ep: 57, acc2: 0.88220, corrcoef2: 0.77666, spearmanr2: 0.76742
+$ ep: 57, lr: 0.00010, test loss: 1.13592, time: 2021-10-16 14:53:58:
+    ep: 57, acc4: 0.40454, corrcoef4: 0.49008, spearmanr4: 0.49050, mse4: 1.13592
+    ep: 57, acc2: 0.67099, corrcoef2: 0.40192, spearmanr2: 0.40126
+$ ep: 58, lr: 0.00010, train loss: 0.33560, time: 2021-10-16 15:16:22:
+    ep: 58, acc4: 0.67890, corrcoef4: 0.86112, spearmanr4: 0.85865, mse4: 0.33560
+    ep: 58, acc2: 0.88510, corrcoef2: 0.77848, spearmanr2: 0.76950
+$ ep: 58, lr: 0.00010, test loss: 1.13105, time: 2021-10-16 15:18:08:
+    ep: 58, acc4: 0.41783, corrcoef4: 0.48802, spearmanr4: 0.48557, mse4: 1.13105
+    ep: 58, acc2: 0.68136, corrcoef2: 0.40047, spearmanr2: 0.39715
+$ ep: 59, lr: 0.00010, train loss: 0.32683, time: 2021-10-16 15:40:32:
+    ep: 59, acc4: 0.68698, corrcoef4: 0.86502, spearmanr4: 0.86194, mse4: 0.32683
+    ep: 59, acc2: 0.88565, corrcoef2: 0.78407, spearmanr2: 0.77397
+$ ep: 59, lr: 0.00010, test loss: 1.13490, time: 2021-10-16 15:42:19:
+    ep: 59, acc4: 0.40875, corrcoef4: 0.47971, spearmanr4: 0.48014, mse4: 1.13490
+    ep: 59, acc2: 0.68266, corrcoef2: 0.39618, spearmanr2: 0.39466
+$ ep: 60, lr: 0.00010, train loss: 0.32374, time: 2021-10-16 16:04:42:
+    ep: 60, acc4: 0.69412, corrcoef4: 0.86639, spearmanr4: 0.86376, mse4: 0.32374
+    ep: 60, acc2: 0.88596, corrcoef2: 0.78350, spearmanr2: 0.77361
+$ ep: 60, lr: 0.00010, test loss: 1.16342, time: 2021-10-16 16:06:29:
+    ep: 60, acc4: 0.40486, corrcoef4: 0.48122, spearmanr4: 0.48302, mse4: 1.16342
+    ep: 60, acc2: 0.67520, corrcoef2: 0.39831, spearmanr2: 0.39837
+$ ep: 61, lr: 0.00010, train loss: 0.32373, time: 2021-10-16 16:28:54:
+    ep: 61, acc4: 0.68886, corrcoef4: 0.86637, spearmanr4: 0.86326, mse4: 0.32373
+    ep: 61, acc2: 0.88784, corrcoef2: 0.78404, spearmanr2: 0.77412
+$ ep: 61, lr: 0.00010, test loss: 1.11039, time: 2021-10-16 16:30:40:
+    ep: 61, acc4: 0.40421, corrcoef4: 0.48550, spearmanr4: 0.48425, mse4: 1.11039
+    ep: 61, acc2: 0.68006, corrcoef2: 0.40323, spearmanr2: 0.40072
+$ ep: 62, lr: 0.00010, train loss: 0.31849, time: 2021-10-16 16:53:04:
+    ep: 62, acc4: 0.69263, corrcoef4: 0.86871, spearmanr4: 0.86626, mse4: 0.31849
+    ep: 62, acc2: 0.88651, corrcoef2: 0.78618, spearmanr2: 0.77759
+$ ep: 62, lr: 0.00010, test loss: 1.16593, time: 2021-10-16 16:54:50:
+    ep: 62, acc4: 0.39384, corrcoef4: 0.45997, spearmanr4: 0.45992, mse4: 1.16593
+    ep: 62, acc2: 0.67002, corrcoef2: 0.37455, spearmanr2: 0.37377
+$ ep: 63, lr: 0.00010, train loss: 0.31835, time: 2021-10-16 17:17:13:
+    ep: 63, acc4: 0.69263, corrcoef4: 0.86882, spearmanr4: 0.86645, mse4: 0.31835
+    ep: 63, acc2: 0.88698, corrcoef2: 0.78607, spearmanr2: 0.77628
+$ ep: 63, lr: 0.00010, test loss: 1.16305, time: 2021-10-16 17:18:59:
+    ep: 63, acc4: 0.40616, corrcoef4: 0.48371, spearmanr4: 0.48472, mse4: 1.16305
+    ep: 63, acc2: 0.67455, corrcoef2: 0.40146, spearmanr2: 0.40153
+$ ep: 64, lr: 0.00010, train loss: 0.31292, time: 2021-10-16 17:41:25:
+    ep: 64, acc4: 0.70353, corrcoef4: 0.87121, spearmanr4: 0.86844, mse4: 0.31292
+    ep: 64, acc2: 0.88863, corrcoef2: 0.78627, spearmanr2: 0.77627
+$ ep: 64, lr: 0.00010, test loss: 1.15702, time: 2021-10-16 17:43:11:
+    ep: 64, acc4: 0.38314, corrcoef4: 0.46869, spearmanr4: 0.46826, mse4: 1.15702
+    ep: 64, acc2: 0.67650, corrcoef2: 0.38829, spearmanr2: 0.38760
+$ ep: 65, lr: 0.00010, train loss: 0.31041, time: 2021-10-16 18:05:36:
+    ep: 65, acc4: 0.70031, corrcoef4: 0.87230, spearmanr4: 0.87004, mse4: 0.31041
+    ep: 65, acc2: 0.88886, corrcoef2: 0.78787, spearmanr2: 0.77893
+$ ep: 65, lr: 0.00010, test loss: 1.10025, time: 2021-10-16 18:07:23:
+    ep: 65, acc4: 0.41459, corrcoef4: 0.48941, spearmanr4: 0.48936, mse4: 1.10025
+    ep: 65, acc2: 0.67877, corrcoef2: 0.40541, spearmanr2: 0.40431
+$ ep: 66, lr: 0.00010, train loss: 0.30429, time: 2021-10-16 18:29:48:
+    ep: 66, acc4: 0.70635, corrcoef4: 0.87499, spearmanr4: 0.87264, mse4: 0.30429
+    ep: 66, acc2: 0.89373, corrcoef2: 0.79069, spearmanr2: 0.78186
+$ ep: 66, lr: 0.00010, test loss: 1.09690, time: 2021-10-16 18:31:35:
+    ep: 66, acc4: 0.41750, corrcoef4: 0.49990, spearmanr4: 0.50052, mse4: 1.09690
+    ep: 66, acc2: 0.68687, corrcoef2: 0.40926, spearmanr2: 0.40878
+$ ep: 67, lr: 0.00010, train loss: 0.29862, time: 2021-10-16 18:54:01:
+    ep: 67, acc4: 0.71153, corrcoef4: 0.87747, spearmanr4: 0.87447, mse4: 0.29862
+    ep: 67, acc2: 0.89655, corrcoef2: 0.79432, spearmanr2: 0.78342
+$ ep: 67, lr: 0.00010, test loss: 1.12183, time: 2021-10-16 18:55:48:
+    ep: 67, acc4: 0.40065, corrcoef4: 0.47616, spearmanr4: 0.47515, mse4: 1.12183
+    ep: 67, acc2: 0.67585, corrcoef2: 0.39538, spearmanr2: 0.39493
+$ ep: 68, lr: 0.00010, train loss: 0.29909, time: 2021-10-16 19:18:14:
+    ep: 68, acc4: 0.71271, corrcoef4: 0.87727, spearmanr4: 0.87534, mse4: 0.29909
+    ep: 68, acc2: 0.89427, corrcoef2: 0.79309, spearmanr2: 0.78386
+$ ep: 68, lr: 0.00010, test loss: 1.15011, time: 2021-10-16 19:20:01:
+    ep: 68, acc4: 0.39773, corrcoef4: 0.47815, spearmanr4: 0.47771, mse4: 1.15011
+    ep: 68, acc2: 0.67293, corrcoef2: 0.39239, spearmanr2: 0.39131
+$ ep: 69, lr: 0.00010, train loss: 0.29210, time: 2021-10-16 19:42:28:
+    ep: 69, acc4: 0.71820, corrcoef4: 0.88032, spearmanr4: 0.87787, mse4: 0.29210
+    ep: 69, acc2: 0.89584, corrcoef2: 0.79751, spearmanr2: 0.78732
+$ ep: 69, lr: 0.00010, test loss: 1.15359, time: 2021-10-16 19:44:14:
+    ep: 69, acc4: 0.40357, corrcoef4: 0.49326, spearmanr4: 0.49406, mse4: 1.15359
+    ep: 69, acc2: 0.68752, corrcoef2: 0.40633, spearmanr2: 0.40576
+$ ep: 70, lr: 0.00010, train loss: 0.29291, time: 2021-10-16 20:06:41:
+    ep: 70, acc4: 0.72180, corrcoef4: 0.88000, spearmanr4: 0.87746, mse4: 0.29291
+    ep: 70, acc2: 0.89459, corrcoef2: 0.79343, spearmanr2: 0.78279
+$ ep: 70, lr: 0.00010, test loss: 1.14546, time: 2021-10-16 20:08:27:
+    ep: 70, acc4: 0.40746, corrcoef4: 0.48611, spearmanr4: 0.48646, mse4: 1.14546
+    ep: 70, acc2: 0.67780, corrcoef2: 0.39888, spearmanr2: 0.39831
+$ ep: 71, lr: 0.00010, train loss: 0.29097, time: 2021-10-16 20:30:53:
+    ep: 71, acc4: 0.71490, corrcoef4: 0.88085, spearmanr4: 0.87846, mse4: 0.29097
+    ep: 71, acc2: 0.89208, corrcoef2: 0.79609, spearmanr2: 0.78660
+$ ep: 71, lr: 0.00010, test loss: 1.16340, time: 2021-10-16 20:32:39:
+    ep: 71, acc4: 0.38347, corrcoef4: 0.47529, spearmanr4: 0.47481, mse4: 1.16340
+    ep: 71, acc2: 0.67002, corrcoef2: 0.39051, spearmanr2: 0.39046
+$ ep: 72, lr: 0.00010, train loss: 0.28745, time: 2021-10-16 20:55:04:
+    ep: 72, acc4: 0.71741, corrcoef4: 0.88234, spearmanr4: 0.87976, mse4: 0.28745
+    ep: 72, acc2: 0.89827, corrcoef2: 0.79846, spearmanr2: 0.78742
+$ ep: 72, lr: 0.00010, test loss: 1.11306, time: 2021-10-16 20:56:51:
+    ep: 72, acc4: 0.41037, corrcoef4: 0.49015, spearmanr4: 0.48905, mse4: 1.11306
+    ep: 72, acc2: 0.67877, corrcoef2: 0.40379, spearmanr2: 0.40150
+$ ep: 73, lr: 0.00010, train loss: 0.28050, time: 2021-10-16 21:19:13:
+    ep: 73, acc4: 0.73608, corrcoef4: 0.88538, spearmanr4: 0.88319, mse4: 0.28050
+    ep: 73, acc2: 0.90188, corrcoef2: 0.80124, spearmanr2: 0.79006
+$ ep: 73, lr: 0.00010, test loss: 1.15620, time: 2021-10-16 21:20:58:
+    ep: 73, acc4: 0.41718, corrcoef4: 0.48587, spearmanr4: 0.48537, mse4: 1.15620
+    ep: 73, acc2: 0.67877, corrcoef2: 0.39872, spearmanr2: 0.39701
+$ ep: 74, lr: 0.00010, train loss: 0.28381, time: 2021-10-16 21:43:21:
+    ep: 74, acc4: 0.72988, corrcoef4: 0.88398, spearmanr4: 0.88201, mse4: 0.28381
+    ep: 74, acc2: 0.90047, corrcoef2: 0.79960, spearmanr2: 0.78919
+$ ep: 74, lr: 0.00010, test loss: 1.16479, time: 2021-10-16 21:45:07:
+    ep: 74, acc4: 0.39870, corrcoef4: 0.47782, spearmanr4: 0.47760, mse4: 1.16479
+    ep: 74, acc2: 0.67293, corrcoef2: 0.39327, spearmanr2: 0.39207
+$ ep: 75, lr: 0.00010, train loss: 0.27520, time: 2021-10-16 22:07:28:
+    ep: 75, acc4: 0.73059, corrcoef4: 0.88770, spearmanr4: 0.88506, mse4: 0.27520
+    ep: 75, acc2: 0.90141, corrcoef2: 0.80272, spearmanr2: 0.79177
+$ ep: 75, lr: 0.00010, test loss: 1.15856, time: 2021-10-16 22:09:14:
+    ep: 75, acc4: 0.40324, corrcoef4: 0.46931, spearmanr4: 0.46683, mse4: 1.15856
+    ep: 75, acc2: 0.67066, corrcoef2: 0.38338, spearmanr2: 0.38106
+$ ep: 76, lr: 0.00010, train loss: 0.27564, time: 2021-10-16 22:31:36:
+    ep: 76, acc4: 0.74086, corrcoef4: 0.88749, spearmanr4: 0.88550, mse4: 0.27564
+    ep: 76, acc2: 0.89914, corrcoef2: 0.79785, spearmanr2: 0.78940
+$ ep: 76, lr: 0.00010, test loss: 1.15355, time: 2021-10-16 22:33:29:
+    ep: 76, acc4: 0.40908, corrcoef4: 0.48483, spearmanr4: 0.48534, mse4: 1.15355
+    ep: 76, acc2: 0.68363, corrcoef2: 0.40338, spearmanr2: 0.40345
+$ ep: 77, lr: 0.00010, train loss: 0.28008, time: 2021-10-16 22:58:06:
+    ep: 77, acc4: 0.73176, corrcoef4: 0.88560, spearmanr4: 0.88392, mse4: 0.28008
+    ep: 77, acc2: 0.90024, corrcoef2: 0.80010, spearmanr2: 0.78975
+$ ep: 77, lr: 0.00010, test loss: 1.12839, time: 2021-10-16 23:00:15:
+    ep: 77, acc4: 0.40486, corrcoef4: 0.47846, spearmanr4: 0.47717, mse4: 1.12839
+    ep: 77, acc2: 0.67066, corrcoef2: 0.39174, spearmanr2: 0.39047
+$ ep: 78, lr: 0.00010, train loss: 0.27125, time: 2021-10-16 23:24:53:
+    ep: 78, acc4: 0.74314, corrcoef4: 0.88939, spearmanr4: 0.88700, mse4: 0.27125
+    ep: 78, acc2: 0.90369, corrcoef2: 0.80501, spearmanr2: 0.79383
+$ ep: 78, lr: 0.00010, test loss: 1.14443, time: 2021-10-16 23:27:02:
+    ep: 78, acc4: 0.40259, corrcoef4: 0.47992, spearmanr4: 0.47963, mse4: 1.14443
+    ep: 78, acc2: 0.67391, corrcoef2: 0.39351, spearmanr2: 0.39260
+$ ep: 79, lr: 0.00010, train loss: 0.27340, time: 2021-10-16 23:51:42:
+    ep: 79, acc4: 0.73804, corrcoef4: 0.88847, spearmanr4: 0.88688, mse4: 0.27340
+    ep: 79, acc2: 0.90204, corrcoef2: 0.80355, spearmanr2: 0.79377
+$ ep: 79, lr: 0.00010, test loss: 1.14044, time: 2021-10-16 23:53:51:
+    ep: 79, acc4: 0.43144, corrcoef4: 0.49096, spearmanr4: 0.49059, mse4: 1.14044
+    ep: 79, acc2: 0.68298, corrcoef2: 0.40509, spearmanr2: 0.40334
+$ ep: 80, lr: 0.00010, train loss: 0.26569, time: 2021-10-17 00:18:30:
+    ep: 80, acc4: 0.74157, corrcoef4: 0.89181, spearmanr4: 0.88951, mse4: 0.26569
+    ep: 80, acc2: 0.90612, corrcoef2: 0.80498, spearmanr2: 0.79473
+$ ep: 80, lr: 0.00010, test loss: 1.10209, time: 2021-10-17 00:20:40:
+    ep: 80, acc4: 0.43241, corrcoef4: 0.50329, spearmanr4: 0.50373, mse4: 1.10209
+    ep: 80, acc2: 0.68784, corrcoef2: 0.41216, spearmanr2: 0.41103
+$ ep: 81, lr: 0.00010, train loss: 0.26588, time: 2021-10-17 00:45:16:
+    ep: 81, acc4: 0.74149, corrcoef4: 0.89173, spearmanr4: 0.88946, mse4: 0.26588
+    ep: 81, acc2: 0.90478, corrcoef2: 0.80679, spearmanr2: 0.79580
+$ ep: 81, lr: 0.00010, test loss: 1.11926, time: 2021-10-17 00:47:26:
+    ep: 81, acc4: 0.40227, corrcoef4: 0.49071, spearmanr4: 0.48975, mse4: 1.11926
+    ep: 81, acc2: 0.68363, corrcoef2: 0.40389, spearmanr2: 0.40102
+$ ep: 82, lr: 0.00010, train loss: 0.26408, time: 2021-10-17 01:12:05:
+    ep: 82, acc4: 0.75020, corrcoef4: 0.89249, spearmanr4: 0.89045, mse4: 0.26408
+    ep: 82, acc2: 0.90478, corrcoef2: 0.80462, spearmanr2: 0.79462
+$ ep: 82, lr: 0.00010, test loss: 1.15833, time: 2021-10-17 01:14:14:
+    ep: 82, acc4: 0.40032, corrcoef4: 0.47060, spearmanr4: 0.46984, mse4: 1.15833
+    ep: 82, acc2: 0.67131, corrcoef2: 0.38675, spearmanr2: 0.38515
+$ ep: 83, lr: 0.00010, train loss: 0.26150, time: 2021-10-17 01:38:52:
+    ep: 83, acc4: 0.74918, corrcoef4: 0.89361, spearmanr4: 0.89120, mse4: 0.26150
+    ep: 83, acc2: 0.90706, corrcoef2: 0.80869, spearmanr2: 0.79727
+$ ep: 83, lr: 0.00010, test loss: 1.17275, time: 2021-10-17 01:41:02:
+    ep: 83, acc4: 0.40486, corrcoef4: 0.47145, spearmanr4: 0.46888, mse4: 1.17275
+    ep: 83, acc2: 0.66807, corrcoef2: 0.38595, spearmanr2: 0.38260
+$ ep: 84, lr: 0.00010, train loss: 0.25976, time: 2021-10-17 02:04:02:
+    ep: 84, acc4: 0.75114, corrcoef4: 0.89437, spearmanr4: 0.89286, mse4: 0.25976
+    ep: 84, acc2: 0.90329, corrcoef2: 0.80637, spearmanr2: 0.79683
+$ ep: 84, lr: 0.00010, test loss: 1.12411, time: 2021-10-17 02:05:48:
+    ep: 84, acc4: 0.42593, corrcoef4: 0.49144, spearmanr4: 0.49022, mse4: 1.12411
+    ep: 84, acc2: 0.67780, corrcoef2: 0.40610, spearmanr2: 0.40346
+$ ep: 85, lr: 0.00010, train loss: 0.26003, time: 2021-10-17 02:27:58:
+    ep: 85, acc4: 0.75318, corrcoef4: 0.89426, spearmanr4: 0.89273, mse4: 0.26003
+    ep: 85, acc2: 0.90549, corrcoef2: 0.80590, spearmanr2: 0.79682
+$ ep: 85, lr: 0.00010, test loss: 1.12744, time: 2021-10-17 02:29:45:
+    ep: 85, acc4: 0.40357, corrcoef4: 0.48434, spearmanr4: 0.48315, mse4: 1.12744
+    ep: 85, acc2: 0.67909, corrcoef2: 0.39907, spearmanr2: 0.39790
+$ ep: 86, lr: 0.00010, train loss: 0.25699, time: 2021-10-17 02:51:55:
+    ep: 86, acc4: 0.75757, corrcoef4: 0.89556, spearmanr4: 0.89369, mse4: 0.25699
+    ep: 86, acc2: 0.90659, corrcoef2: 0.80761, spearmanr2: 0.79715
+$ ep: 86, lr: 0.00010, test loss: 1.13142, time: 2021-10-17 02:53:41:
+    ep: 86, acc4: 0.41037, corrcoef4: 0.49110, spearmanr4: 0.48801, mse4: 1.13142
+    ep: 86, acc2: 0.68395, corrcoef2: 0.40478, spearmanr2: 0.40095
+$ ep: 87, lr: 0.00010, train loss: 0.25759, time: 2021-10-17 03:15:54:
+    ep: 87, acc4: 0.75278, corrcoef4: 0.89530, spearmanr4: 0.89308, mse4: 0.25759
+    ep: 87, acc2: 0.90431, corrcoef2: 0.80682, spearmanr2: 0.79689
+$ ep: 87, lr: 0.00010, test loss: 1.13930, time: 2021-10-17 03:17:40:
+    ep: 87, acc4: 0.41102, corrcoef4: 0.49328, spearmanr4: 0.49408, mse4: 1.13930
+    ep: 87, acc2: 0.67877, corrcoef2: 0.40519, spearmanr2: 0.40469
+$ ep: 88, lr: 0.00010, train loss: 0.25788, time: 2021-10-17 03:39:38:
+    ep: 88, acc4: 0.74949, corrcoef4: 0.89519, spearmanr4: 0.89360, mse4: 0.25788
+    ep: 88, acc2: 0.90243, corrcoef2: 0.80651, spearmanr2: 0.79675
+$ ep: 88, lr: 0.00010, test loss: 1.13493, time: 2021-10-17 03:41:22:
+    ep: 88, acc4: 0.41524, corrcoef4: 0.49617, spearmanr4: 0.49699, mse4: 1.13493
+    ep: 88, acc2: 0.68363, corrcoef2: 0.41035, spearmanr2: 0.40977
+$ ep: 89, lr: 0.00010, train loss: 0.25528, time: 2021-10-17 04:03:18:
+    ep: 89, acc4: 0.75584, corrcoef4: 0.89628, spearmanr4: 0.89465, mse4: 0.25528
+    ep: 89, acc2: 0.90588, corrcoef2: 0.80817, spearmanr2: 0.79890
+$ ep: 89, lr: 0.00010, test loss: 1.16188, time: 2021-10-17 04:05:01:
+    ep: 89, acc4: 0.41232, corrcoef4: 0.48658, spearmanr4: 0.48690, mse4: 1.16188
+    ep: 89, acc2: 0.67034, corrcoef2: 0.39953, spearmanr2: 0.39967
+$ ep: 90, lr: 0.00010, train loss: 0.24849, time: 2021-10-17 04:26:57:
+    ep: 90, acc4: 0.75718, corrcoef4: 0.89922, spearmanr4: 0.89734, mse4: 0.24849
+    ep: 90, acc2: 0.90925, corrcoef2: 0.81059, spearmanr2: 0.80009
+$ ep: 90, lr: 0.00010, test loss: 1.15062, time: 2021-10-17 04:28:41:
+    ep: 90, acc4: 0.39254, corrcoef4: 0.47113, spearmanr4: 0.46983, mse4: 1.15062
+    ep: 90, acc2: 0.66904, corrcoef2: 0.38976, spearmanr2: 0.38756
+$ ep: 91, lr: 0.00010, train loss: 0.24978, time: 2021-10-17 04:50:36:
+    ep: 91, acc4: 0.75765, corrcoef4: 0.89864, spearmanr4: 0.89688, mse4: 0.24978
+    ep: 91, acc2: 0.90753, corrcoef2: 0.80898, spearmanr2: 0.80041
+$ ep: 91, lr: 0.00010, test loss: 1.14501, time: 2021-10-17 04:52:20:
+    ep: 91, acc4: 0.39773, corrcoef4: 0.47079, spearmanr4: 0.46936, mse4: 1.14501
+    ep: 91, acc2: 0.66807, corrcoef2: 0.38280, spearmanr2: 0.38088
+$ ep: 92, lr: 0.00010, train loss: 0.24468, time: 2021-10-17 05:14:14:
+    ep: 92, acc4: 0.76910, corrcoef4: 0.90083, spearmanr4: 0.89868, mse4: 0.24468
+    ep: 92, acc2: 0.91145, corrcoef2: 0.81369, spearmanr2: 0.80290
+$ ep: 92, lr: 0.00010, test loss: 1.16758, time: 2021-10-17 05:15:57:
+    ep: 92, acc4: 0.39352, corrcoef4: 0.46837, spearmanr4: 0.46613, mse4: 1.16758
+    ep: 92, acc2: 0.67131, corrcoef2: 0.38516, spearmanr2: 0.38323
+$ ep: 93, lr: 0.00010, train loss: 0.24567, time: 2021-10-17 05:37:52:
+    ep: 93, acc4: 0.76667, corrcoef4: 0.90040, spearmanr4: 0.89826, mse4: 0.24567
+    ep: 93, acc2: 0.90886, corrcoef2: 0.81029, spearmanr2: 0.80051
+$ ep: 93, lr: 0.00010, test loss: 1.17223, time: 2021-10-17 05:39:35:
+    ep: 93, acc4: 0.40486, corrcoef4: 0.47931, spearmanr4: 0.47796, mse4: 1.17223
+    ep: 93, acc2: 0.67553, corrcoef2: 0.39693, spearmanr2: 0.39475
+$ ep: 94, lr: 0.00010, train loss: 0.24461, time: 2021-10-17 06:01:31:
+    ep: 94, acc4: 0.76604, corrcoef4: 0.90086, spearmanr4: 0.89893, mse4: 0.24461
+    ep: 94, acc2: 0.91106, corrcoef2: 0.81385, spearmanr2: 0.80289
+$ ep: 94, lr: 0.00010, test loss: 1.15379, time: 2021-10-17 06:03:14:
+    ep: 94, acc4: 0.40551, corrcoef4: 0.48070, spearmanr4: 0.48008, mse4: 1.15379
+    ep: 94, acc2: 0.67034, corrcoef2: 0.39632, spearmanr2: 0.39418
+$ ep: 95, lr: 0.00010, train loss: 0.24392, time: 2021-10-17 06:25:08:
+    ep: 95, acc4: 0.76518, corrcoef4: 0.90115, spearmanr4: 0.89918, mse4: 0.24392
+    ep: 95, acc2: 0.90878, corrcoef2: 0.81231, spearmanr2: 0.80277
+$ ep: 95, lr: 0.00010, test loss: 1.14574, time: 2021-10-17 06:26:51:
+    ep: 95, acc4: 0.42528, corrcoef4: 0.49090, spearmanr4: 0.49073, mse4: 1.14574
+    ep: 95, acc2: 0.68266, corrcoef2: 0.40970, spearmanr2: 0.40824
+$ ep: 96, lr: 0.00010, train loss: 0.24581, time: 2021-10-17 06:48:45:
+    ep: 96, acc4: 0.76580, corrcoef4: 0.90035, spearmanr4: 0.89833, mse4: 0.24581
+    ep: 96, acc2: 0.91082, corrcoef2: 0.81334, spearmanr2: 0.80309
+$ ep: 96, lr: 0.00010, test loss: 1.17664, time: 2021-10-17 06:50:28:
+    ep: 96, acc4: 0.40324, corrcoef4: 0.47753, spearmanr4: 0.47762, mse4: 1.17664
+    ep: 96, acc2: 0.68233, corrcoef2: 0.39625, spearmanr2: 0.39546
+$ ep: 97, lr: 0.00010, train loss: 0.24065, time: 2021-10-17 07:12:23:
+    ep: 97, acc4: 0.77773, corrcoef4: 0.90256, spearmanr4: 0.90034, mse4: 0.24065
+    ep: 97, acc2: 0.91286, corrcoef2: 0.81209, spearmanr2: 0.80166
+$ ep: 97, lr: 0.00010, test loss: 1.18962, time: 2021-10-17 07:14:06:
+    ep: 97, acc4: 0.38574, corrcoef4: 0.46561, spearmanr4: 0.46638, mse4: 1.18962
+    ep: 97, acc2: 0.66580, corrcoef2: 0.38157, spearmanr2: 0.38126
+$ ep: 98, lr: 0.00010, train loss: 0.24100, time: 2021-10-17 07:36:00:
+    ep: 98, acc4: 0.76447, corrcoef4: 0.90240, spearmanr4: 0.90043, mse4: 0.24100
+    ep: 98, acc2: 0.91224, corrcoef2: 0.81540, spearmanr2: 0.80447
+$ ep: 98, lr: 0.00010, test loss: 1.11385, time: 2021-10-17 07:37:44:
+    ep: 98, acc4: 0.40778, corrcoef4: 0.49282, spearmanr4: 0.49032, mse4: 1.11385
+    ep: 98, acc2: 0.67455, corrcoef2: 0.40462, spearmanr2: 0.40182
+$ ep: 99, lr: 0.00010, train loss: 0.23719, time: 2021-10-17 07:59:40:
+    ep: 99, acc4: 0.77498, corrcoef4: 0.90402, spearmanr4: 0.90205, mse4: 0.23719
+    ep: 99, acc2: 0.91310, corrcoef2: 0.81566, spearmanr2: 0.80533
+$ ep: 99, lr: 0.00010, test loss: 1.13897, time: 2021-10-17 08:01:23:
+    ep: 99, acc4: 0.39806, corrcoef4: 0.48081, spearmanr4: 0.47876, mse4: 1.13897
+    ep: 99, acc2: 0.68298, corrcoef2: 0.39648, spearmanr2: 0.39408
+$ ep: 100, lr: 0.00010, train loss: 0.23525, time: 2021-10-17 08:23:19:
+    ep: 100, acc4: 0.77749, corrcoef4: 0.90485, spearmanr4: 0.90249, mse4: 0.23525
+    ep: 100, acc2: 0.91522, corrcoef2: 0.81717, spearmanr2: 0.80710
+$ ep: 100, lr: 0.00010, test loss: 1.15013, time: 2021-10-17 08:25:02:
+    ep: 100, acc4: 0.40908, corrcoef4: 0.48599, spearmanr4: 0.48534, mse4: 1.15013
+    ep: 100, acc2: 0.67974, corrcoef2: 0.40226, spearmanr2: 0.40114
+$ ep: 101, lr: 0.00010, train loss: 0.23818, time: 2021-10-17 08:46:56:
+    ep: 101, acc4: 0.77702, corrcoef4: 0.90360, spearmanr4: 0.90166, mse4: 0.23818
+    ep: 101, acc2: 0.91412, corrcoef2: 0.81391, spearmanr2: 0.80446
+$ ep: 101, lr: 0.00010, test loss: 1.14277, time: 2021-10-17 08:48:39:
+    ep: 101, acc4: 0.40875, corrcoef4: 0.48379, spearmanr4: 0.48093, mse4: 1.14277
+    ep: 101, acc2: 0.67780, corrcoef2: 0.39972, spearmanr2: 0.39678
+$ ep: 102, lr: 0.00010, train loss: 0.23301, time: 2021-10-17 09:10:34:
+    ep: 102, acc4: 0.78031, corrcoef4: 0.90579, spearmanr4: 0.90340, mse4: 0.23301
+    ep: 102, acc2: 0.91490, corrcoef2: 0.81654, spearmanr2: 0.80561
+$ ep: 102, lr: 0.00010, test loss: 1.14875, time: 2021-10-17 09:12:17:
+    ep: 102, acc4: 0.41848, corrcoef4: 0.48353, spearmanr4: 0.48216, mse4: 1.14875
+    ep: 102, acc2: 0.67553, corrcoef2: 0.40201, spearmanr2: 0.39989
+$ ep: 103, lr: 0.00010, train loss: 0.23123, time: 2021-10-17 09:34:12:
+    ep: 103, acc4: 0.77553, corrcoef4: 0.90655, spearmanr4: 0.90415, mse4: 0.23123
+    ep: 103, acc2: 0.91396, corrcoef2: 0.81834, spearmanr2: 0.80722
+$ ep: 103, lr: 0.00010, test loss: 1.15600, time: 2021-10-17 09:35:56:
+    ep: 103, acc4: 0.39611, corrcoef4: 0.46995, spearmanr4: 0.46789, mse4: 1.15600
+    ep: 103, acc2: 0.66677, corrcoef2: 0.38305, spearmanr2: 0.38087
+$ ep: 104, lr: 0.00010, train loss: 0.23325, time: 2021-10-17 09:57:51:
+    ep: 104, acc4: 0.78478, corrcoef4: 0.90569, spearmanr4: 0.90373, mse4: 0.23325
+    ep: 104, acc2: 0.91325, corrcoef2: 0.81331, spearmanr2: 0.80374
+$ ep: 104, lr: 0.00010, test loss: 1.14474, time: 2021-10-17 09:59:34:
+    ep: 104, acc4: 0.41297, corrcoef4: 0.48403, spearmanr4: 0.48197, mse4: 1.14474
+    ep: 104, acc2: 0.67974, corrcoef2: 0.39927, spearmanr2: 0.39651
+$ ep: 105, lr: 0.00010, train loss: 0.23248, time: 2021-10-17 10:21:28:
+    ep: 105, acc4: 0.78290, corrcoef4: 0.90602, spearmanr4: 0.90332, mse4: 0.23248
+    ep: 105, acc2: 0.91514, corrcoef2: 0.81700, spearmanr2: 0.80553
+$ ep: 105, lr: 0.00010, test loss: 1.15998, time: 2021-10-17 10:23:11:
+    ep: 105, acc4: 0.40972, corrcoef4: 0.48569, spearmanr4: 0.48521, mse4: 1.15998
+    ep: 105, acc2: 0.68882, corrcoef2: 0.40085, spearmanr2: 0.39943
+$ ep: 106, lr: 0.00010, train loss: 0.23108, time: 2021-10-17 10:45:07:
+    ep: 106, acc4: 0.78486, corrcoef4: 0.90661, spearmanr4: 0.90426, mse4: 0.23108
+    ep: 106, acc2: 0.91718, corrcoef2: 0.81726, spearmanr2: 0.80617
+$ ep: 106, lr: 0.00010, test loss: 1.15131, time: 2021-10-17 10:46:51:
+    ep: 106, acc4: 0.40486, corrcoef4: 0.47541, spearmanr4: 0.47461, mse4: 1.15131
+    ep: 106, acc2: 0.67034, corrcoef2: 0.39218, spearmanr2: 0.39070
+$ ep: 107, lr: 0.00010, train loss: 0.22840, time: 2021-10-17 11:08:46:
+    ep: 107, acc4: 0.78525, corrcoef4: 0.90776, spearmanr4: 0.90528, mse4: 0.22840
+    ep: 107, acc2: 0.92086, corrcoef2: 0.82018, spearmanr2: 0.80907
+$ ep: 107, lr: 0.00010, test loss: 1.14002, time: 2021-10-17 11:10:29:
+    ep: 107, acc4: 0.41199, corrcoef4: 0.48920, spearmanr4: 0.48802, mse4: 1.14002
+    ep: 107, acc2: 0.66775, corrcoef2: 0.40282, spearmanr2: 0.40112
+$ ep: 108, lr: 0.00010, train loss: 0.23140, time: 2021-10-17 11:32:29:
+    ep: 108, acc4: 0.78596, corrcoef4: 0.90650, spearmanr4: 0.90431, mse4: 0.23140
+    ep: 108, acc2: 0.91514, corrcoef2: 0.81616, spearmanr2: 0.80629
+$ ep: 108, lr: 0.00010, test loss: 1.14981, time: 2021-10-17 11:34:15:
+    ep: 108, acc4: 0.41005, corrcoef4: 0.47879, spearmanr4: 0.47697, mse4: 1.14981
+    ep: 108, acc2: 0.67520, corrcoef2: 0.39190, spearmanr2: 0.38955
+$ ep: 109, lr: 0.00010, train loss: 0.22752, time: 2021-10-17 11:56:22:
+    ep: 109, acc4: 0.78949, corrcoef4: 0.90814, spearmanr4: 0.90551, mse4: 0.22752
+    ep: 109, acc2: 0.91749, corrcoef2: 0.81817, spearmanr2: 0.80714
+$ ep: 109, lr: 0.00010, test loss: 1.16955, time: 2021-10-17 11:58:08:
+    ep: 109, acc4: 0.38152, corrcoef4: 0.46173, spearmanr4: 0.45944, mse4: 1.16955
+    ep: 109, acc2: 0.66937, corrcoef2: 0.38050, spearmanr2: 0.37956
+$ ep: 110, lr: 0.00010, train loss: 0.22966, time: 2021-10-17 12:20:15:
+    ep: 110, acc4: 0.78620, corrcoef4: 0.90721, spearmanr4: 0.90452, mse4: 0.22966
+    ep: 110, acc2: 0.91647, corrcoef2: 0.81739, spearmanr2: 0.80681
+$ ep: 110, lr: 0.00010, test loss: 1.16650, time: 2021-10-17 12:22:01:
+    ep: 110, acc4: 0.42010, corrcoef4: 0.48603, spearmanr4: 0.48573, mse4: 1.16650
+    ep: 110, acc2: 0.67650, corrcoef2: 0.39981, spearmanr2: 0.39820
+$ ep: 111, lr: 0.00010, train loss: 0.22657, time: 2021-10-17 12:44:10:
+    ep: 111, acc4: 0.78792, corrcoef4: 0.90855, spearmanr4: 0.90650, mse4: 0.22657
+    ep: 111, acc2: 0.91765, corrcoef2: 0.81808, spearmanr2: 0.80823
+$ ep: 111, lr: 0.00010, test loss: 1.13985, time: 2021-10-17 12:45:55:
+    ep: 111, acc4: 0.39417, corrcoef4: 0.48835, spearmanr4: 0.48852, mse4: 1.13985
+    ep: 111, acc2: 0.67585, corrcoef2: 0.40106, spearmanr2: 0.40018
+$ ep: 112, lr: 0.00010, train loss: 0.21907, time: 2021-10-17 13:08:02:
+    ep: 112, acc4: 0.79169, corrcoef4: 0.91171, spearmanr4: 0.90884, mse4: 0.21907
+    ep: 112, acc2: 0.91757, corrcoef2: 0.82013, spearmanr2: 0.81060
+$ ep: 112, lr: 0.00010, test loss: 1.15979, time: 2021-10-17 13:09:47:
+    ep: 112, acc4: 0.41653, corrcoef4: 0.48248, spearmanr4: 0.48077, mse4: 1.15979
+    ep: 112, acc2: 0.67326, corrcoef2: 0.39819, spearmanr2: 0.39527
+$ ep: 113, lr: 0.00010, train loss: 0.22381, time: 2021-10-17 13:31:55:
+    ep: 113, acc4: 0.79122, corrcoef4: 0.90970, spearmanr4: 0.90715, mse4: 0.22381
+    ep: 113, acc2: 0.91710, corrcoef2: 0.81847, spearmanr2: 0.80848
+$ ep: 113, lr: 0.00010, test loss: 1.18304, time: 2021-10-17 13:33:41:
+    ep: 113, acc4: 0.39222, corrcoef4: 0.46156, spearmanr4: 0.46030, mse4: 1.18304
+    ep: 113, acc2: 0.67099, corrcoef2: 0.37814, spearmanr2: 0.37601
+$ ep: 114, lr: 0.00010, train loss: 0.22378, time: 2021-10-17 13:55:49:
+    ep: 114, acc4: 0.79035, corrcoef4: 0.90973, spearmanr4: 0.90713, mse4: 0.22378
+    ep: 114, acc2: 0.91718, corrcoef2: 0.81908, spearmanr2: 0.80869
+$ ep: 114, lr: 0.00010, test loss: 1.18702, time: 2021-10-17 13:57:34:
+    ep: 114, acc4: 0.40292, corrcoef4: 0.46884, spearmanr4: 0.46793, mse4: 1.18702
+    ep: 114, acc2: 0.67034, corrcoef2: 0.38389, spearmanr2: 0.38209
+$ ep: 115, lr: 0.00010, train loss: 0.22135, time: 2021-10-17 14:19:41:
+    ep: 115, acc4: 0.79365, corrcoef4: 0.91073, spearmanr4: 0.90787, mse4: 0.22135
+    ep: 115, acc2: 0.91875, corrcoef2: 0.82068, spearmanr2: 0.81042
+$ ep: 115, lr: 0.00010, test loss: 1.13412, time: 2021-10-17 14:21:27:
+    ep: 115, acc4: 0.41491, corrcoef4: 0.48962, spearmanr4: 0.48787, mse4: 1.13412
+    ep: 115, acc2: 0.67942, corrcoef2: 0.40069, spearmanr2: 0.39746
+$ ep: 116, lr: 0.00010, train loss: 0.22345, time: 2021-10-17 14:43:37:
+    ep: 116, acc4: 0.79333, corrcoef4: 0.90984, spearmanr4: 0.90740, mse4: 0.22345
+    ep: 116, acc2: 0.91914, corrcoef2: 0.81942, spearmanr2: 0.80855
+$ ep: 116, lr: 0.00010, test loss: 1.17607, time: 2021-10-17 14:45:24:
+    ep: 116, acc4: 0.41426, corrcoef4: 0.47968, spearmanr4: 0.47903, mse4: 1.17607
+    ep: 116, acc2: 0.67650, corrcoef2: 0.39653, spearmanr2: 0.39463
+$ ep: 117, lr: 0.00010, train loss: 0.21851, time: 2021-10-17 15:08:04:
+    ep: 117, acc4: 0.79757, corrcoef4: 0.91194, spearmanr4: 0.90918, mse4: 0.21851
+    ep: 117, acc2: 0.91890, corrcoef2: 0.82096, spearmanr2: 0.81074
+$ ep: 117, lr: 0.00010, test loss: 1.16982, time: 2021-10-17 15:10:13:
+    ep: 117, acc4: 0.39903, corrcoef4: 0.47420, spearmanr4: 0.47364, mse4: 1.16982
+    ep: 117, acc2: 0.66775, corrcoef2: 0.38881, spearmanr2: 0.38734
+$ ep: 118, lr: 0.00010, train loss: 0.21650, time: 2021-10-17 15:34:36:
+    ep: 118, acc4: 0.80125, corrcoef4: 0.91280, spearmanr4: 0.90987, mse4: 0.21650
+    ep: 118, acc2: 0.92071, corrcoef2: 0.82181, spearmanr2: 0.81077
+$ ep: 118, lr: 0.00010, test loss: 1.17636, time: 2021-10-17 15:36:46:
+    ep: 118, acc4: 0.40324, corrcoef4: 0.46714, spearmanr4: 0.46470, mse4: 1.17636
+    ep: 118, acc2: 0.66775, corrcoef2: 0.37865, spearmanr2: 0.37564
+$ ep: 119, lr: 0.00010, train loss: 0.21977, time: 2021-10-17 16:01:10:
+    ep: 119, acc4: 0.79702, corrcoef4: 0.91142, spearmanr4: 0.90884, mse4: 0.21977
+    ep: 119, acc2: 0.91969, corrcoef2: 0.82001, spearmanr2: 0.81060
+$ ep: 119, lr: 0.00010, test loss: 1.17417, time: 2021-10-17 16:03:19:
+    ep: 119, acc4: 0.39319, corrcoef4: 0.46648, spearmanr4: 0.46588, mse4: 1.17417
+    ep: 119, acc2: 0.66937, corrcoef2: 0.38183, spearmanr2: 0.38095
+$ ep: 120, lr: 0.00010, train loss: 0.21430, time: 2021-10-17 16:25:45:
+    ep: 120, acc4: 0.80125, corrcoef4: 0.91371, spearmanr4: 0.91079, mse4: 0.21430
+    ep: 120, acc2: 0.92337, corrcoef2: 0.82351, spearmanr2: 0.81177
+$ ep: 120, lr: 0.00010, test loss: 1.13680, time: 2021-10-17 16:27:29:
+    ep: 120, acc4: 0.41426, corrcoef4: 0.48340, spearmanr4: 0.48118, mse4: 1.13680
+    ep: 120, acc2: 0.67002, corrcoef2: 0.39504, spearmanr2: 0.39199
+$ ep: 121, lr: 0.00010, train loss: 0.21632, time: 2021-10-17 16:49:26:
+    ep: 121, acc4: 0.80337, corrcoef4: 0.91286, spearmanr4: 0.90949, mse4: 0.21632
+    ep: 121, acc2: 0.92212, corrcoef2: 0.82148, spearmanr2: 0.81016
+$ ep: 121, lr: 0.00010, test loss: 1.16090, time: 2021-10-17 16:51:10:
+    ep: 121, acc4: 0.40000, corrcoef4: 0.47545, spearmanr4: 0.47520, mse4: 1.16090
+    ep: 121, acc2: 0.67715, corrcoef2: 0.39093, spearmanr2: 0.38965
+$ ep: 122, lr: 0.00010, train loss: 0.21226, time: 2021-10-17 17:13:07:
+    ep: 122, acc4: 0.80212, corrcoef4: 0.91458, spearmanr4: 0.91154, mse4: 0.21226
+    ep: 122, acc2: 0.92055, corrcoef2: 0.82222, spearmanr2: 0.81178
+$ ep: 122, lr: 0.00010, test loss: 1.18403, time: 2021-10-17 17:14:51:
+    ep: 122, acc4: 0.38606, corrcoef4: 0.46341, spearmanr4: 0.46229, mse4: 1.18403
+    ep: 122, acc2: 0.65900, corrcoef2: 0.38318, spearmanr2: 0.38200
+$ ep: 123, lr: 0.00010, train loss: 0.21533, time: 2021-10-17 17:36:56:
+    ep: 123, acc4: 0.79882, corrcoef4: 0.91330, spearmanr4: 0.91010, mse4: 0.21533
+    ep: 123, acc2: 0.92243, corrcoef2: 0.82156, spearmanr2: 0.81086
+$ ep: 123, lr: 0.00010, test loss: 1.16911, time: 2021-10-17 17:38:44:
+    ep: 123, acc4: 0.40065, corrcoef4: 0.47193, spearmanr4: 0.47032, mse4: 1.16911
+    ep: 123, acc2: 0.67002, corrcoef2: 0.38678, spearmanr2: 0.38479
+$ ep: 124, lr: 0.00010, train loss: 0.21505, time: 2021-10-17 18:01:36:
+    ep: 124, acc4: 0.80110, corrcoef4: 0.91340, spearmanr4: 0.91074, mse4: 0.21505
+    ep: 124, acc2: 0.91937, corrcoef2: 0.82086, spearmanr2: 0.81061
+$ ep: 124, lr: 0.00010, test loss: 1.14559, time: 2021-10-17 18:03:23:
+    ep: 124, acc4: 0.40551, corrcoef4: 0.47895, spearmanr4: 0.47680, mse4: 1.14559
+    ep: 124, acc2: 0.67196, corrcoef2: 0.39321, spearmanr2: 0.39087
+$ ep: 125, lr: 0.00010, train loss: 0.20924, time: 2021-10-17 18:25:43:
+    ep: 125, acc4: 0.80910, corrcoef4: 0.91585, spearmanr4: 0.91240, mse4: 0.20924
+    ep: 125, acc2: 0.92439, corrcoef2: 0.82545, spearmanr2: 0.81387
+$ ep: 125, lr: 0.00010, test loss: 1.17312, time: 2021-10-17 18:27:29:
+    ep: 125, acc4: 0.40227, corrcoef4: 0.47417, spearmanr4: 0.47350, mse4: 1.17312
+    ep: 125, acc2: 0.67553, corrcoef2: 0.38957, spearmanr2: 0.38817
+$ ep: 126, lr: 0.00010, train loss: 0.21143, time: 2021-10-17 18:50:14:
+    ep: 126, acc4: 0.80690, corrcoef4: 0.91494, spearmanr4: 0.91154, mse4: 0.21143
+    ep: 126, acc2: 0.92314, corrcoef2: 0.82326, spearmanr2: 0.81262
+$ ep: 126, lr: 0.00010, test loss: 1.16853, time: 2021-10-17 18:51:59:
+    ep: 126, acc4: 0.41005, corrcoef4: 0.48313, spearmanr4: 0.48168, mse4: 1.16853
+    ep: 126, acc2: 0.66969, corrcoef2: 0.39627, spearmanr2: 0.39461
+$ ep: 127, lr: 0.00010, train loss: 0.21524, time: 2021-10-17 19:14:45:
+    ep: 127, acc4: 0.80518, corrcoef4: 0.91333, spearmanr4: 0.91053, mse4: 0.21524
+    ep: 127, acc2: 0.92329, corrcoef2: 0.82267, spearmanr2: 0.81173
+$ ep: 127, lr: 0.00010, test loss: 1.13199, time: 2021-10-17 19:16:35:
+    ep: 127, acc4: 0.42139, corrcoef4: 0.49027, spearmanr4: 0.48903, mse4: 1.13199
+    ep: 127, acc2: 0.67520, corrcoef2: 0.40696, spearmanr2: 0.40489
+$ ep: 128, lr: 0.00010, train loss: 0.20716, time: 2021-10-17 19:39:35:
+    ep: 128, acc4: 0.81012, corrcoef4: 0.91671, spearmanr4: 0.91285, mse4: 0.20716
+    ep: 128, acc2: 0.92298, corrcoef2: 0.82383, spearmanr2: 0.81314
+$ ep: 128, lr: 0.00010, test loss: 1.16879, time: 2021-10-17 19:41:23:
+    ep: 128, acc4: 0.39676, corrcoef4: 0.47334, spearmanr4: 0.47223, mse4: 1.16879
+    ep: 128, acc2: 0.66937, corrcoef2: 0.39093, spearmanr2: 0.38989
+$ ep: 129, lr: 0.00010, train loss: 0.20998, time: 2021-10-17 20:04:34:
+    ep: 129, acc4: 0.81098, corrcoef4: 0.91554, spearmanr4: 0.91216, mse4: 0.20998
+    ep: 129, acc2: 0.92651, corrcoef2: 0.82473, spearmanr2: 0.81293
+$ ep: 129, lr: 0.00010, test loss: 1.14156, time: 2021-10-17 20:06:22:
+    ep: 129, acc4: 0.40032, corrcoef4: 0.47341, spearmanr4: 0.47261, mse4: 1.14156
+    ep: 129, acc2: 0.67229, corrcoef2: 0.38958, spearmanr2: 0.38838
+$ ep: 130, lr: 0.00010, train loss: 0.20880, time: 2021-10-17 20:28:49:
+    ep: 130, acc4: 0.80784, corrcoef4: 0.91603, spearmanr4: 0.91269, mse4: 0.20880
+    ep: 130, acc2: 0.92314, corrcoef2: 0.82390, spearmanr2: 0.81325
+$ ep: 130, lr: 0.00010, test loss: 1.15550, time: 2021-10-17 20:30:35:
+    ep: 130, acc4: 0.41686, corrcoef4: 0.47714, spearmanr4: 0.47724, mse4: 1.15550
+    ep: 130, acc2: 0.67780, corrcoef2: 0.39201, spearmanr2: 0.39088
+$ ep: 131, lr: 0.00010, train loss: 0.20597, time: 2021-10-17 20:52:58:
+    ep: 131, acc4: 0.81075, corrcoef4: 0.91722, spearmanr4: 0.91395, mse4: 0.20597
+    ep: 131, acc2: 0.92596, corrcoef2: 0.82451, spearmanr2: 0.81300
+$ ep: 131, lr: 0.00010, test loss: 1.15628, time: 2021-10-17 20:54:45:
+    ep: 131, acc4: 0.39449, corrcoef4: 0.46264, spearmanr4: 0.45885, mse4: 1.15628
+    ep: 131, acc2: 0.67099, corrcoef2: 0.38010, spearmanr2: 0.37665
+$ ep: 132, lr: 0.00010, train loss: 0.20424, time: 2021-10-17 21:17:08:
+    ep: 132, acc4: 0.81420, corrcoef4: 0.91794, spearmanr4: 0.91411, mse4: 0.20424
+    ep: 132, acc2: 0.92533, corrcoef2: 0.82469, spearmanr2: 0.81491
+$ ep: 132, lr: 0.00010, test loss: 1.17728, time: 2021-10-17 21:18:55:
+    ep: 132, acc4: 0.41232, corrcoef4: 0.47141, spearmanr4: 0.46926, mse4: 1.17728
+    ep: 132, acc2: 0.67423, corrcoef2: 0.38300, spearmanr2: 0.38106
+$ ep: 133, lr: 0.00010, train loss: 0.20532, time: 2021-10-17 21:41:20:
+    ep: 133, acc4: 0.81082, corrcoef4: 0.91749, spearmanr4: 0.91416, mse4: 0.20532
+    ep: 133, acc2: 0.92565, corrcoef2: 0.82619, spearmanr2: 0.81409
+$ ep: 133, lr: 0.00010, test loss: 1.13263, time: 2021-10-17 21:43:06:
+    ep: 133, acc4: 0.40843, corrcoef4: 0.48020, spearmanr4: 0.47774, mse4: 1.13263
+    ep: 133, acc2: 0.67455, corrcoef2: 0.39327, spearmanr2: 0.39140
+$ ep: 134, lr: 0.00010, train loss: 0.20492, time: 2021-10-17 22:05:40:
+    ep: 134, acc4: 0.81459, corrcoef4: 0.91768, spearmanr4: 0.91402, mse4: 0.20492
+    ep: 134, acc2: 0.92478, corrcoef2: 0.82500, spearmanr2: 0.81435
+$ ep: 134, lr: 0.00010, test loss: 1.15135, time: 2021-10-17 22:07:29:
+    ep: 134, acc4: 0.40616, corrcoef4: 0.46893, spearmanr4: 0.46536, mse4: 1.15135
+    ep: 134, acc2: 0.67066, corrcoef2: 0.38426, spearmanr2: 0.38171
+$ ep: 135, lr: 0.00010, train loss: 0.20212, time: 2021-10-17 22:30:43:
+    ep: 135, acc4: 0.81435, corrcoef4: 0.91885, spearmanr4: 0.91528, mse4: 0.20212
+    ep: 135, acc2: 0.92596, corrcoef2: 0.82572, spearmanr2: 0.81487
+$ ep: 135, lr: 0.00010, test loss: 1.13961, time: 2021-10-17 22:32:33:
+    ep: 135, acc4: 0.40519, corrcoef4: 0.48428, spearmanr4: 0.48241, mse4: 1.13961
+    ep: 135, acc2: 0.67650, corrcoef2: 0.39868, spearmanr2: 0.39675
+$ ep: 136, lr: 0.00010, train loss: 0.20450, time: 2021-10-17 22:55:36:
+    ep: 136, acc4: 0.81247, corrcoef4: 0.91784, spearmanr4: 0.91409, mse4: 0.20450
+    ep: 136, acc2: 0.92298, corrcoef2: 0.82479, spearmanr2: 0.81512
+$ ep: 136, lr: 0.00010, test loss: 1.13081, time: 2021-10-17 22:57:28:
+    ep: 136, acc4: 0.41718, corrcoef4: 0.48904, spearmanr4: 0.48733, mse4: 1.13081
+    ep: 136, acc2: 0.67585, corrcoef2: 0.40152, spearmanr2: 0.39978
+$ ep: 137, lr: 0.00010, train loss: 0.20888, time: 2021-10-17 23:20:17:
+    ep: 137, acc4: 0.80910, corrcoef4: 0.91600, spearmanr4: 0.91286, mse4: 0.20888
+    ep: 137, acc2: 0.92682, corrcoef2: 0.82428, spearmanr2: 0.81395
+$ ep: 137, lr: 0.00010, test loss: 1.14111, time: 2021-10-17 23:22:05:
+    ep: 137, acc4: 0.41102, corrcoef4: 0.47974, spearmanr4: 0.47782, mse4: 1.14111
+    ep: 137, acc2: 0.67196, corrcoef2: 0.39344, spearmanr2: 0.39183
+$ ep: 138, lr: 0.00010, train loss: 0.19908, time: 2021-10-17 23:44:53:
+    ep: 138, acc4: 0.82008, corrcoef4: 0.92011, spearmanr4: 0.91624, mse4: 0.19908
+    ep: 138, acc2: 0.92910, corrcoef2: 0.82825, spearmanr2: 0.81768
+$ ep: 138, lr: 0.00010, test loss: 1.15422, time: 2021-10-17 23:46:55:
+    ep: 138, acc4: 0.41556, corrcoef4: 0.48925, spearmanr4: 0.48842, mse4: 1.15422
+    ep: 138, acc2: 0.68233, corrcoef2: 0.40441, spearmanr2: 0.40284
+$ ep: 139, lr: 0.00010, train loss: 0.20375, time: 2021-10-18 00:09:43:
+    ep: 139, acc4: 0.81310, corrcoef4: 0.91815, spearmanr4: 0.91451, mse4: 0.20375
+    ep: 139, acc2: 0.92494, corrcoef2: 0.82539, spearmanr2: 0.81516
+$ ep: 139, lr: 0.00010, test loss: 1.16252, time: 2021-10-18 00:11:29:
+    ep: 139, acc4: 0.40097, corrcoef4: 0.46946, spearmanr4: 0.46830, mse4: 1.16252
+    ep: 139, acc2: 0.67002, corrcoef2: 0.38592, spearmanr2: 0.38541
+$ ep: 140, lr: 0.00010, train loss: 0.20197, time: 2021-10-18 00:34:25:
+    ep: 140, acc4: 0.81545, corrcoef4: 0.91890, spearmanr4: 0.91524, mse4: 0.20197
+    ep: 140, acc2: 0.92729, corrcoef2: 0.82843, spearmanr2: 0.81654
+$ ep: 140, lr: 0.00010, test loss: 1.17871, time: 2021-10-18 00:36:15:
+    ep: 140, acc4: 0.39417, corrcoef4: 0.48480, spearmanr4: 0.48518, mse4: 1.17871
+    ep: 140, acc2: 0.67164, corrcoef2: 0.39991, spearmanr2: 0.39986
+$ ep: 141, lr: 0.00010, train loss: 0.20084, time: 2021-10-18 00:59:28:
+    ep: 141, acc4: 0.81851, corrcoef4: 0.91938, spearmanr4: 0.91524, mse4: 0.20084
+    ep: 141, acc2: 0.92557, corrcoef2: 0.82716, spearmanr2: 0.81567
+$ ep: 141, lr: 0.00010, test loss: 1.16187, time: 2021-10-18 01:01:39:
+    ep: 141, acc4: 0.41361, corrcoef4: 0.48233, spearmanr4: 0.47837, mse4: 1.16187
+    ep: 141, acc2: 0.66969, corrcoef2: 0.39548, spearmanr2: 0.39241
+$ ep: 142, lr: 0.00010, train loss: 0.20197, time: 2021-10-18 01:25:04:
+    ep: 142, acc4: 0.81804, corrcoef4: 0.91890, spearmanr4: 0.91519, mse4: 0.20197
+    ep: 142, acc2: 0.92745, corrcoef2: 0.82647, spearmanr2: 0.81554
+$ ep: 142, lr: 0.00010, test loss: 1.17444, time: 2021-10-18 01:26:54:
+    ep: 142, acc4: 0.40130, corrcoef4: 0.47928, spearmanr4: 0.47750, mse4: 1.17444
+    ep: 142, acc2: 0.67974, corrcoef2: 0.39375, spearmanr2: 0.39240
+$ ep: 143, lr: 0.00010, train loss: 0.19856, time: 2021-10-18 01:49:44:
+    ep: 143, acc4: 0.82086, corrcoef4: 0.92033, spearmanr4: 0.91619, mse4: 0.19856
+    ep: 143, acc2: 0.92698, corrcoef2: 0.82699, spearmanr2: 0.81627
+$ ep: 143, lr: 0.00010, test loss: 1.13225, time: 2021-10-18 01:51:30:
+    ep: 143, acc4: 0.41394, corrcoef4: 0.48809, spearmanr4: 0.48643, mse4: 1.13225
+    ep: 143, acc2: 0.68169, corrcoef2: 0.39866, spearmanr2: 0.39668
+$ ep: 144, lr: 0.00010, train loss: 0.19931, time: 2021-10-18 02:14:42:
+    ep: 144, acc4: 0.82290, corrcoef4: 0.92001, spearmanr4: 0.91587, mse4: 0.19931
+    ep: 144, acc2: 0.92769, corrcoef2: 0.82733, spearmanr2: 0.81637
+$ ep: 144, lr: 0.00010, test loss: 1.17349, time: 2021-10-18 02:16:32:
+    ep: 144, acc4: 0.39611, corrcoef4: 0.46904, spearmanr4: 0.46673, mse4: 1.17349
+    ep: 144, acc2: 0.66548, corrcoef2: 0.38141, spearmanr2: 0.37856
+$ ep: 145, lr: 0.00010, train loss: 0.19865, time: 2021-10-18 02:39:59:
+    ep: 145, acc4: 0.81663, corrcoef4: 0.92029, spearmanr4: 0.91618, mse4: 0.19865
+    ep: 145, acc2: 0.92682, corrcoef2: 0.82732, spearmanr2: 0.81691
+$ ep: 145, lr: 0.00010, test loss: 1.14001, time: 2021-10-18 02:41:50:
+    ep: 145, acc4: 0.41491, corrcoef4: 0.48574, spearmanr4: 0.48367, mse4: 1.14001
+    ep: 145, acc2: 0.68233, corrcoef2: 0.39884, spearmanr2: 0.39706
+$ ep: 146, lr: 0.00010, train loss: 0.19626, time: 2021-10-18 03:05:09:
+    ep: 146, acc4: 0.81914, corrcoef4: 0.92129, spearmanr4: 0.91680, mse4: 0.19626
+    ep: 146, acc2: 0.92690, corrcoef2: 0.82848, spearmanr2: 0.81765
+$ ep: 146, lr: 0.00010, test loss: 1.22048, time: 2021-10-18 03:06:57:
+    ep: 146, acc4: 0.38930, corrcoef4: 0.45817, spearmanr4: 0.45651, mse4: 1.22048
+    ep: 146, acc2: 0.66288, corrcoef2: 0.37705, spearmanr2: 0.37553
+$ ep: 147, lr: 0.00010, train loss: 0.19769, time: 2021-10-18 03:29:52:
+    ep: 147, acc4: 0.81929, corrcoef4: 0.92070, spearmanr4: 0.91652, mse4: 0.19769
+    ep: 147, acc2: 0.92729, corrcoef2: 0.82677, spearmanr2: 0.81656
+$ ep: 147, lr: 0.00010, test loss: 1.15950, time: 2021-10-18 03:31:43:
+    ep: 147, acc4: 0.40194, corrcoef4: 0.47189, spearmanr4: 0.46951, mse4: 1.15950
+    ep: 147, acc2: 0.67585, corrcoef2: 0.38867, spearmanr2: 0.38671
+$ ep: 148, lr: 0.00010, train loss: 0.19579, time: 2021-10-18 03:55:11:
+    ep: 148, acc4: 0.82204, corrcoef4: 0.92148, spearmanr4: 0.91712, mse4: 0.19579
+    ep: 148, acc2: 0.92635, corrcoef2: 0.82651, spearmanr2: 0.81663
+$ ep: 148, lr: 0.00010, test loss: 1.21185, time: 2021-10-18 03:57:02:
+    ep: 148, acc4: 0.39935, corrcoef4: 0.47287, spearmanr4: 0.47080, mse4: 1.21185
+    ep: 148, acc2: 0.67164, corrcoef2: 0.38739, spearmanr2: 0.38506
+$ ep: 149, lr: 0.00010, train loss: 0.19432, time: 2021-10-18 04:20:22:
+    ep: 149, acc4: 0.82243, corrcoef4: 0.92210, spearmanr4: 0.91765, mse4: 0.19432
+    ep: 149, acc2: 0.92988, corrcoef2: 0.83135, spearmanr2: 0.81926
+$ ep: 149, lr: 0.00010, test loss: 1.17932, time: 2021-10-18 04:22:09:
+    ep: 149, acc4: 0.39514, corrcoef4: 0.46105, spearmanr4: 0.45811, mse4: 1.17932
+    ep: 149, acc2: 0.66029, corrcoef2: 0.37521, spearmanr2: 0.37260
+$ ep: 150, lr: 0.00010, train loss: 0.19355, time: 2021-10-18 04:45:15:
+    ep: 150, acc4: 0.82918, corrcoef4: 0.92242, spearmanr4: 0.91771, mse4: 0.19355
+    ep: 150, acc2: 0.92918, corrcoef2: 0.82838, spearmanr2: 0.81777
+$ ep: 150, lr: 0.00010, test loss: 1.17419, time: 2021-10-18 04:47:04:
+    ep: 150, acc4: 0.40259, corrcoef4: 0.48149, spearmanr4: 0.47999, mse4: 1.17419
+    ep: 150, acc2: 0.66807, corrcoef2: 0.39280, spearmanr2: 0.39101
+$ ep: 151, lr: 0.00010, train loss: 0.19809, time: 2021-10-18 05:10:18:
+    ep: 151, acc4: 0.81867, corrcoef4: 0.92053, spearmanr4: 0.91622, mse4: 0.19809
+    ep: 151, acc2: 0.92753, corrcoef2: 0.82815, spearmanr2: 0.81691
+$ ep: 151, lr: 0.00010, test loss: 1.20598, time: 2021-10-18 05:12:08:
+    ep: 151, acc4: 0.39222, corrcoef4: 0.44998, spearmanr4: 0.44933, mse4: 1.20598
+    ep: 151, acc2: 0.66062, corrcoef2: 0.36344, spearmanr2: 0.36236
+$ ep: 152, lr: 0.00010, train loss: 0.19750, time: 2021-10-18 05:35:29:
+    ep: 152, acc4: 0.82125, corrcoef4: 0.92077, spearmanr4: 0.91625, mse4: 0.19750
+    ep: 152, acc2: 0.92824, corrcoef2: 0.82680, spearmanr2: 0.81638
+$ ep: 152, lr: 0.00010, test loss: 1.16822, time: 2021-10-18 05:37:19:
+    ep: 152, acc4: 0.40065, corrcoef4: 0.47646, spearmanr4: 0.47663, mse4: 1.16822
+    ep: 152, acc2: 0.67455, corrcoef2: 0.38999, spearmanr2: 0.39028
+$ ep: 153, lr: 0.00010, train loss: 0.19257, time: 2021-10-18 06:00:34:
+    ep: 153, acc4: 0.82424, corrcoef4: 0.92284, spearmanr4: 0.91834, mse4: 0.19257
+    ep: 153, acc2: 0.93051, corrcoef2: 0.83153, spearmanr2: 0.81990
+$ ep: 153, lr: 0.00010, test loss: 1.15395, time: 2021-10-18 06:02:24:
+    ep: 153, acc4: 0.41588, corrcoef4: 0.49864, spearmanr4: 0.49765, mse4: 1.15395
+    ep: 153, acc2: 0.68104, corrcoef2: 0.41409, spearmanr2: 0.41211
+$ ep: 154, lr: 0.00010, train loss: 0.19378, time: 2021-10-18 06:25:47:
+    ep: 154, acc4: 0.82541, corrcoef4: 0.92234, spearmanr4: 0.91784, mse4: 0.19378
+    ep: 154, acc2: 0.93122, corrcoef2: 0.82872, spearmanr2: 0.81823
+$ ep: 154, lr: 0.00010, test loss: 1.16235, time: 2021-10-18 06:27:33:
+    ep: 154, acc4: 0.39319, corrcoef4: 0.46498, spearmanr4: 0.46356, mse4: 1.16235
+    ep: 154, acc2: 0.67164, corrcoef2: 0.38005, spearmanr2: 0.37960
+$ ep: 155, lr: 0.00010, train loss: 0.19029, time: 2021-10-18 06:50:39:
+    ep: 155, acc4: 0.82980, corrcoef4: 0.92379, spearmanr4: 0.91920, mse4: 0.19029
+    ep: 155, acc2: 0.93184, corrcoef2: 0.83038, spearmanr2: 0.81885
+$ ep: 155, lr: 0.00010, test loss: 1.19139, time: 2021-10-18 06:52:27:
+    ep: 155, acc4: 0.39546, corrcoef4: 0.46006, spearmanr4: 0.45808, mse4: 1.19139
+    ep: 155, acc2: 0.66840, corrcoef2: 0.37563, spearmanr2: 0.37373
+$ ep: 156, lr: 0.00010, train loss: 0.19167, time: 2021-10-18 07:15:45:
+    ep: 156, acc4: 0.82565, corrcoef4: 0.92321, spearmanr4: 0.91876, mse4: 0.19167
+    ep: 156, acc2: 0.92996, corrcoef2: 0.82937, spearmanr2: 0.81888
+$ ep: 156, lr: 0.00010, test loss: 1.17194, time: 2021-10-18 07:17:34:
+    ep: 156, acc4: 0.40648, corrcoef4: 0.46801, spearmanr4: 0.46689, mse4: 1.17194
+    ep: 156, acc2: 0.67099, corrcoef2: 0.38269, spearmanr2: 0.38226
+$ ep: 157, lr: 0.00010, train loss: 0.19245, time: 2021-10-18 07:40:55:
+    ep: 157, acc4: 0.82408, corrcoef4: 0.92288, spearmanr4: 0.91822, mse4: 0.19245
+    ep: 157, acc2: 0.93106, corrcoef2: 0.83136, spearmanr2: 0.81963
+$ ep: 157, lr: 0.00010, test loss: 1.16676, time: 2021-10-18 07:42:44:
+    ep: 157, acc4: 0.40648, corrcoef4: 0.47569, spearmanr4: 0.47429, mse4: 1.16676
+    ep: 157, acc2: 0.67488, corrcoef2: 0.38887, spearmanr2: 0.38774
+$ ep: 158, lr: 0.00010, train loss: 0.19358, time: 2021-10-18 08:06:00:
+    ep: 158, acc4: 0.82667, corrcoef4: 0.92240, spearmanr4: 0.91750, mse4: 0.19358
+    ep: 158, acc2: 0.92949, corrcoef2: 0.82831, spearmanr2: 0.81747
+$ ep: 158, lr: 0.00010, test loss: 1.16345, time: 2021-10-18 08:07:49:
+    ep: 158, acc4: 0.40162, corrcoef4: 0.47308, spearmanr4: 0.47212, mse4: 1.16345
+    ep: 158, acc2: 0.66904, corrcoef2: 0.38978, spearmanr2: 0.38881
+$ ep: 159, lr: 0.00010, train loss: 0.18753, time: 2021-10-18 08:31:04:
+    ep: 159, acc4: 0.83153, corrcoef4: 0.92492, spearmanr4: 0.91978, mse4: 0.18753
+    ep: 159, acc2: 0.93239, corrcoef2: 0.83116, spearmanr2: 0.82033
+$ ep: 159, lr: 0.00010, test loss: 1.16064, time: 2021-10-18 08:32:54:
+    ep: 159, acc4: 0.39449, corrcoef4: 0.46866, spearmanr4: 0.46728, mse4: 1.16064
+    ep: 159, acc2: 0.66613, corrcoef2: 0.38410, spearmanr2: 0.38295
+$ ep: 160, lr: 0.00010, train loss: 0.19162, time: 2021-10-18 08:56:18:
+    ep: 160, acc4: 0.82518, corrcoef4: 0.92322, spearmanr4: 0.91864, mse4: 0.19162
+    ep: 160, acc2: 0.93004, corrcoef2: 0.82957, spearmanr2: 0.81843
+$ ep: 160, lr: 0.00010, test loss: 1.15029, time: 2021-10-18 08:58:05:
+    ep: 160, acc4: 0.40454, corrcoef4: 0.48040, spearmanr4: 0.47936, mse4: 1.15029
+    ep: 160, acc2: 0.67942, corrcoef2: 0.39636, spearmanr2: 0.39557
+$ ep: 161, lr: 0.00010, train loss: 0.18796, time: 2021-10-18 09:21:28:
+    ep: 161, acc4: 0.83161, corrcoef4: 0.92475, spearmanr4: 0.91972, mse4: 0.18796
+    ep: 161, acc2: 0.93004, corrcoef2: 0.83117, spearmanr2: 0.82013
+$ ep: 161, lr: 0.00010, test loss: 1.17408, time: 2021-10-18 09:23:15:
+    ep: 161, acc4: 0.40097, corrcoef4: 0.48256, spearmanr4: 0.48133, mse4: 1.17408
+    ep: 161, acc2: 0.67553, corrcoef2: 0.39659, spearmanr2: 0.39470
+$ ep: 162, lr: 0.00010, train loss: 0.18856, time: 2021-10-18 09:46:33:
+    ep: 162, acc4: 0.82871, corrcoef4: 0.92450, spearmanr4: 0.91954, mse4: 0.18856
+    ep: 162, acc2: 0.93208, corrcoef2: 0.83120, spearmanr2: 0.81958
+$ ep: 162, lr: 0.00010, test loss: 1.16182, time: 2021-10-18 09:48:21:
+    ep: 162, acc4: 0.40713, corrcoef4: 0.48229, spearmanr4: 0.48197, mse4: 1.16182
+    ep: 162, acc2: 0.67618, corrcoef2: 0.39745, spearmanr2: 0.39667
+$ ep: 163, lr: 0.00010, train loss: 0.18974, time: 2021-10-18 10:12:12:
+    ep: 163, acc4: 0.83051, corrcoef4: 0.92400, spearmanr4: 0.91884, mse4: 0.18974
+    ep: 163, acc2: 0.93129, corrcoef2: 0.83105, spearmanr2: 0.81913
+$ ep: 163, lr: 0.00010, test loss: 1.18448, time: 2021-10-18 10:14:03:
+    ep: 163, acc4: 0.40583, corrcoef4: 0.47407, spearmanr4: 0.47348, mse4: 1.18448
+    ep: 163, acc2: 0.67747, corrcoef2: 0.39340, spearmanr2: 0.39307
+$ ep: 164, lr: 0.00010, train loss: 0.18783, time: 2021-10-18 10:37:47:
+    ep: 164, acc4: 0.83475, corrcoef4: 0.92482, spearmanr4: 0.91987, mse4: 0.18783
+    ep: 164, acc2: 0.93459, corrcoef2: 0.83132, spearmanr2: 0.82027
+$ ep: 164, lr: 0.00010, test loss: 1.15038, time: 2021-10-18 10:39:38:
+    ep: 164, acc4: 0.40875, corrcoef4: 0.47931, spearmanr4: 0.47845, mse4: 1.15038
+    ep: 164, acc2: 0.67261, corrcoef2: 0.39535, spearmanr2: 0.39407
+$ ep: 165, lr: 0.00010, train loss: 0.18708, time: 2021-10-18 11:03:35:
+    ep: 165, acc4: 0.83067, corrcoef4: 0.92511, spearmanr4: 0.92016, mse4: 0.18708
+    ep: 165, acc2: 0.93012, corrcoef2: 0.83114, spearmanr2: 0.81965
+$ ep: 165, lr: 0.00010, test loss: 1.17174, time: 2021-10-18 11:05:29:
+    ep: 165, acc4: 0.39676, corrcoef4: 0.47253, spearmanr4: 0.47180, mse4: 1.17174
+    ep: 165, acc2: 0.67715, corrcoef2: 0.39049, spearmanr2: 0.38969
+$ ep: 166, lr: 0.00010, train loss: 0.18846, time: 2021-10-18 11:29:10:
+    ep: 166, acc4: 0.82863, corrcoef4: 0.92454, spearmanr4: 0.91953, mse4: 0.18846
+    ep: 166, acc2: 0.93200, corrcoef2: 0.83295, spearmanr2: 0.82077
+$ ep: 166, lr: 0.00010, test loss: 1.16643, time: 2021-10-18 11:31:02:
+    ep: 166, acc4: 0.40227, corrcoef4: 0.47396, spearmanr4: 0.47268, mse4: 1.16643
+    ep: 166, acc2: 0.67293, corrcoef2: 0.38935, spearmanr2: 0.38838
+$ ep: 167, lr: 0.00010, train loss: 0.18676, time: 2021-10-18 11:55:02:
+    ep: 167, acc4: 0.83341, corrcoef4: 0.92526, spearmanr4: 0.92002, mse4: 0.18676
+    ep: 167, acc2: 0.93051, corrcoef2: 0.83042, spearmanr2: 0.82026
+$ ep: 167, lr: 0.00010, test loss: 1.12775, time: 2021-10-18 11:56:50:
+    ep: 167, acc4: 0.40486, corrcoef4: 0.48622, spearmanr4: 0.48584, mse4: 1.12775
+    ep: 167, acc2: 0.67974, corrcoef2: 0.39829, spearmanr2: 0.39704
+$ ep: 168, lr: 0.00010, train loss: 0.18281, time: 2021-10-18 12:20:31:
+    ep: 168, acc4: 0.83718, corrcoef4: 0.92689, spearmanr4: 0.92139, mse4: 0.18281
+    ep: 168, acc2: 0.93310, corrcoef2: 0.83206, spearmanr2: 0.82126
+$ ep: 168, lr: 0.00010, test loss: 1.12614, time: 2021-10-18 12:22:22:
+    ep: 168, acc4: 0.38898, corrcoef4: 0.47675, spearmanr4: 0.47472, mse4: 1.12614
+    ep: 168, acc2: 0.67164, corrcoef2: 0.39017, spearmanr2: 0.38844
+$ ep: 169, lr: 0.00010, train loss: 0.18676, time: 2021-10-18 12:46:29:
+    ep: 169, acc4: 0.83231, corrcoef4: 0.92525, spearmanr4: 0.92033, mse4: 0.18676
+    ep: 169, acc2: 0.93208, corrcoef2: 0.83166, spearmanr2: 0.82019
+$ ep: 169, lr: 0.00010, test loss: 1.15966, time: 2021-10-18 12:48:19:
+    ep: 169, acc4: 0.39903, corrcoef4: 0.47481, spearmanr4: 0.47376, mse4: 1.15966
+    ep: 169, acc2: 0.67618, corrcoef2: 0.39133, spearmanr2: 0.39012
+$ ep: 170, lr: 0.00010, train loss: 0.18754, time: 2021-10-18 13:12:41:
+    ep: 170, acc4: 0.83231, corrcoef4: 0.92493, spearmanr4: 0.91973, mse4: 0.18754
+    ep: 170, acc2: 0.93059, corrcoef2: 0.82974, spearmanr2: 0.81904
+$ ep: 170, lr: 0.00010, test loss: 1.16245, time: 2021-10-18 13:14:32:
+    ep: 170, acc4: 0.40389, corrcoef4: 0.47626, spearmanr4: 0.47585, mse4: 1.16245
+    ep: 170, acc2: 0.67488, corrcoef2: 0.39114, spearmanr2: 0.39019
+$ ep: 171, lr: 0.00010, train loss: 0.18548, time: 2021-10-18 13:38:17:
+    ep: 171, acc4: 0.83631, corrcoef4: 0.92578, spearmanr4: 0.92046, mse4: 0.18548
+    ep: 171, acc2: 0.93427, corrcoef2: 0.83185, spearmanr2: 0.82055
+$ ep: 171, lr: 0.00010, test loss: 1.15059, time: 2021-10-18 13:40:10:
+    ep: 171, acc4: 0.40940, corrcoef4: 0.47637, spearmanr4: 0.47410, mse4: 1.15059
+    ep: 171, acc2: 0.67423, corrcoef2: 0.38864, spearmanr2: 0.38683
+$ ep: 172, lr: 0.00010, train loss: 0.18405, time: 2021-10-18 14:03:56:
+    ep: 172, acc4: 0.83702, corrcoef4: 0.92637, spearmanr4: 0.92086, mse4: 0.18405
+    ep: 172, acc2: 0.93482, corrcoef2: 0.83283, spearmanr2: 0.82201
+$ ep: 172, lr: 0.00010, test loss: 1.14944, time: 2021-10-18 14:05:47:
+    ep: 172, acc4: 0.40519, corrcoef4: 0.48330, spearmanr4: 0.48205, mse4: 1.14944
+    ep: 172, acc2: 0.67196, corrcoef2: 0.39655, spearmanr2: 0.39525
+$ ep: 173, lr: 0.00010, train loss: 0.18199, time: 2021-10-18 14:29:54:
+    ep: 173, acc4: 0.83827, corrcoef4: 0.92723, spearmanr4: 0.92137, mse4: 0.18199
+    ep: 173, acc2: 0.93467, corrcoef2: 0.83336, spearmanr2: 0.82151
+$ ep: 173, lr: 0.00010, test loss: 1.15087, time: 2021-10-18 14:31:42:
+    ep: 173, acc4: 0.41037, corrcoef4: 0.48111, spearmanr4: 0.48021, mse4: 1.15087
+    ep: 173, acc2: 0.67618, corrcoef2: 0.39526, spearmanr2: 0.39406
+$ ep: 174, lr: 0.00010, train loss: 0.18349, time: 2021-10-18 14:55:15:
+    ep: 174, acc4: 0.83765, corrcoef4: 0.92661, spearmanr4: 0.92112, mse4: 0.18349
+    ep: 174, acc2: 0.93475, corrcoef2: 0.83289, spearmanr2: 0.82135
+$ ep: 174, lr: 0.00010, test loss: 1.17298, time: 2021-10-18 14:57:03:
+    ep: 174, acc4: 0.39838, corrcoef4: 0.46704, spearmanr4: 0.46509, mse4: 1.17298
+    ep: 174, acc2: 0.66580, corrcoef2: 0.38240, spearmanr2: 0.38082
+=============================================================
+
+=============================================================
+$ ep: 0, lr: 0.00010, train loss: 1.26720, time: 2021-10-20 04:38:08:
+    ep: 0, acc4: 0.24043, corrcoef4: 0.12515, spearmanr4: 0.12706, mse4: 1.26720
+    ep: 0, acc2: 0.56231, corrcoef2: 0.10902, spearmanr2: 0.10970
+$ ep: 0, lr: 0.00010, test loss: 1.18757, time: 2021-10-20 04:41:44:
+    ep: 0, acc4: 0.25383, corrcoef4: 0.25696, spearmanr4: 0.27624, mse4: 1.18757
+    ep: 0, acc2: 0.60867, corrcoef2: 0.21883, spearmanr2: 0.23448
+$ ep: 1, lr: 0.00010, train loss: 1.09584, time: 2021-10-20 05:28:40:
+    ep: 1, acc4: 0.29344, corrcoef4: 0.36715, spearmanr4: 0.36728, mse4: 1.09584
+    ep: 1, acc2: 0.62607, corrcoef2: 0.31155, spearmanr2: 0.30998
+$ ep: 1, lr: 0.00010, test loss: 1.03622, time: 2021-10-20 05:32:08:
+    ep: 1, acc4: 0.34200, corrcoef4: 0.43705, spearmanr4: 0.42870, mse4: 1.03622
+    ep: 1, acc2: 0.64333, corrcoef2: 0.36480, spearmanr2: 0.35653
+$ ep: 2, lr: 0.00010, train loss: 0.97515, time: 2021-10-20 06:19:16:
+    ep: 2, acc4: 0.34940, corrcoef4: 0.47910, spearmanr4: 0.47338, mse4: 0.97515
+    ep: 2, acc2: 0.66734, corrcoef2: 0.40273, spearmanr2: 0.39636
+$ ep: 2, lr: 0.00010, test loss: 0.95733, time: 2021-10-20 06:22:45:
+    ep: 2, acc4: 0.33250, corrcoef4: 0.49415, spearmanr4: 0.49500, mse4: 0.95733
+    ep: 2, acc2: 0.68517, corrcoef2: 0.41335, spearmanr2: 0.41369
+$ ep: 3, lr: 0.00010, train loss: 0.94136, time: 2021-10-20 07:09:58:
+    ep: 3, acc4: 0.35917, corrcoef4: 0.50540, spearmanr4: 0.50146, mse4: 0.94136
+    ep: 3, acc2: 0.68387, corrcoef2: 0.43073, spearmanr2: 0.42569
+$ ep: 3, lr: 0.00010, test loss: 0.95179, time: 2021-10-20 07:13:30:
+    ep: 3, acc4: 0.36767, corrcoef4: 0.50180, spearmanr4: 0.49925, mse4: 0.95179
+    ep: 3, acc2: 0.68667, corrcoef2: 0.42246, spearmanr2: 0.41754
+$ ep: 4, lr: 0.00010, train loss: 0.92135, time: 2021-10-20 08:00:28:
+    ep: 4, acc4: 0.36319, corrcoef4: 0.52087, spearmanr4: 0.52083, mse4: 0.92135
+    ep: 4, acc2: 0.69525, corrcoef2: 0.44302, spearmanr2: 0.44027
+$ ep: 4, lr: 0.00010, test loss: 0.92876, time: 2021-10-20 08:03:59:
+    ep: 4, acc4: 0.39300, corrcoef4: 0.52043, spearmanr4: 0.51916, mse4: 0.92876
+    ep: 4, acc2: 0.70000, corrcoef2: 0.44327, spearmanr2: 0.43978
+$ ep: 5, lr: 0.00010, train loss: 0.90248, time: 2021-10-20 08:50:57:
+    ep: 5, acc4: 0.37454, corrcoef4: 0.53469, spearmanr4: 0.53594, mse4: 0.90248
+    ep: 5, acc2: 0.69980, corrcoef2: 0.45679, spearmanr2: 0.45565
+$ ep: 5, lr: 0.00010, test loss: 0.92368, time: 2021-10-20 08:54:29:
+    ep: 5, acc4: 0.37800, corrcoef4: 0.52544, spearmanr4: 0.52499, mse4: 0.92368
+    ep: 5, acc2: 0.69750, corrcoef2: 0.44438, spearmanr2: 0.44378
+$ ep: 6, lr: 0.00010, train loss: 0.88879, time: 2021-10-20 09:41:28:
+    ep: 6, acc4: 0.38037, corrcoef4: 0.54472, spearmanr4: 0.54658, mse4: 0.88879
+    ep: 6, acc2: 0.70692, corrcoef2: 0.46427, spearmanr2: 0.46361
+$ ep: 6, lr: 0.00010, test loss: 0.92334, time: 2021-10-20 09:44:57:
+    ep: 6, acc4: 0.37067, corrcoef4: 0.52261, spearmanr4: 0.52107, mse4: 0.92334
+    ep: 6, acc2: 0.69067, corrcoef2: 0.44335, spearmanr2: 0.43969
+$ ep: 7, lr: 0.00010, train loss: 0.87347, time: 2021-10-20 10:32:02:
+    ep: 7, acc4: 0.38556, corrcoef4: 0.55562, spearmanr4: 0.55710, mse4: 0.87347
+    ep: 7, acc2: 0.70889, corrcoef2: 0.47646, spearmanr2: 0.47549
+$ ep: 7, lr: 0.00010, test loss: 0.91328, time: 2021-10-20 10:35:34:
+    ep: 7, acc4: 0.34000, corrcoef4: 0.53475, spearmanr4: 0.53528, mse4: 0.91328
+    ep: 7, acc2: 0.70617, corrcoef2: 0.45466, spearmanr2: 0.45206
+$ ep: 8, lr: 0.00010, train loss: 0.86000, time: 2021-10-20 11:23:15:
+    ep: 8, acc4: 0.38797, corrcoef4: 0.56508, spearmanr4: 0.56707, mse4: 0.86000
+    ep: 8, acc2: 0.71782, corrcoef2: 0.48670, spearmanr2: 0.48597
+$ ep: 8, lr: 0.00010, test loss: 0.90335, time: 2021-10-20 11:26:51:
+    ep: 8, acc4: 0.36767, corrcoef4: 0.53595, spearmanr4: 0.53626, mse4: 0.90335
+    ep: 8, acc2: 0.70600, corrcoef2: 0.45678, spearmanr2: 0.45515
+$ ep: 9, lr: 0.00010, train loss: 0.84710, time: 2021-10-20 12:14:01:
+    ep: 9, acc4: 0.39280, corrcoef4: 0.57398, spearmanr4: 0.57687, mse4: 0.84710
+    ep: 9, acc2: 0.72104, corrcoef2: 0.49516, spearmanr2: 0.49521
+$ ep: 9, lr: 0.00010, test loss: 0.90985, time: 2021-10-20 12:17:39:
+    ep: 9, acc4: 0.37683, corrcoef4: 0.53103, spearmanr4: 0.53016, mse4: 0.90985
+    ep: 9, acc2: 0.69233, corrcoef2: 0.44263, spearmanr2: 0.44066
+$ ep: 10, lr: 0.00010, train loss: 0.83287, time: 2021-10-20 13:04:43:
+    ep: 10, acc4: 0.40628, corrcoef4: 0.58371, spearmanr4: 0.58571, mse4: 0.83287
+    ep: 10, acc2: 0.72498, corrcoef2: 0.50192, spearmanr2: 0.50160
+$ ep: 10, lr: 0.00010, test loss: 0.90056, time: 2021-10-20 13:08:21:
+    ep: 10, acc4: 0.40467, corrcoef4: 0.54193, spearmanr4: 0.54123, mse4: 0.90056
+    ep: 10, acc2: 0.69733, corrcoef2: 0.46118, spearmanr2: 0.45735
+$ ep: 11, lr: 0.00010, train loss: 0.82323, time: 2021-10-20 13:55:58:
+    ep: 11, acc4: 0.41175, corrcoef4: 0.59014, spearmanr4: 0.59184, mse4: 0.82323
+    ep: 11, acc2: 0.72852, corrcoef2: 0.50817, spearmanr2: 0.50788
+$ ep: 11, lr: 0.00010, test loss: 0.88942, time: 2021-10-20 13:59:35:
+    ep: 11, acc4: 0.40717, corrcoef4: 0.54985, spearmanr4: 0.54794, mse4: 0.88942
+    ep: 11, acc2: 0.70050, corrcoef2: 0.46718, spearmanr2: 0.46403
+$ ep: 12, lr: 0.00010, train loss: 0.81281, time: 2021-10-20 14:45:06:
+    ep: 12, acc4: 0.41814, corrcoef4: 0.59704, spearmanr4: 0.59943, mse4: 0.81281
+    ep: 12, acc2: 0.73415, corrcoef2: 0.51858, spearmanr2: 0.51824
+$ ep: 12, lr: 0.00010, test loss: 0.87801, time: 2021-10-20 14:48:29:
+    ep: 12, acc4: 0.40450, corrcoef4: 0.55591, spearmanr4: 0.55459, mse4: 0.87801
+    ep: 12, acc2: 0.71083, corrcoef2: 0.47468, spearmanr2: 0.47121
+$ ep: 13, lr: 0.00010, train loss: 0.80153, time: 2021-10-20 15:33:34:
+    ep: 13, acc4: 0.41903, corrcoef4: 0.60450, spearmanr4: 0.60507, mse4: 0.80153
+    ep: 13, acc2: 0.73431, corrcoef2: 0.52124, spearmanr2: 0.51967
+$ ep: 13, lr: 0.00010, test loss: 0.89531, time: 2021-10-20 15:37:03:
+    ep: 13, acc4: 0.38683, corrcoef4: 0.55291, spearmanr4: 0.55204, mse4: 0.89531
+    ep: 13, acc2: 0.69317, corrcoef2: 0.46990, spearmanr2: 0.46828
+$ ep: 14, lr: 0.00010, train loss: 0.78849, time: 2021-10-20 16:22:16:
+    ep: 14, acc4: 0.42916, corrcoef4: 0.61301, spearmanr4: 0.61402, mse4: 0.78849
+    ep: 14, acc2: 0.73821, corrcoef2: 0.52984, spearmanr2: 0.52923
+$ ep: 14, lr: 0.00010, test loss: 0.89704, time: 2021-10-20 16:25:46:
+    ep: 14, acc4: 0.39600, corrcoef4: 0.55637, spearmanr4: 0.55520, mse4: 0.89704
+    ep: 14, acc2: 0.71050, corrcoef2: 0.47428, spearmanr2: 0.47138
+$ ep: 15, lr: 0.00010, train loss: 0.78465, time: 2021-10-20 17:10:54:
+    ep: 15, acc4: 0.42759, corrcoef4: 0.61544, spearmanr4: 0.61648, mse4: 0.78465
+    ep: 15, acc2: 0.73986, corrcoef2: 0.53453, spearmanr2: 0.53318
+$ ep: 15, lr: 0.00010, test loss: 0.89555, time: 2021-10-20 17:14:24:
+    ep: 15, acc4: 0.42450, corrcoef4: 0.55051, spearmanr4: 0.54878, mse4: 0.89555
+    ep: 15, acc2: 0.71050, corrcoef2: 0.46900, spearmanr2: 0.46638
+$ ep: 16, lr: 0.00010, train loss: 0.77029, time: 2021-10-20 17:59:43:
+    ep: 16, acc4: 0.43536, corrcoef4: 0.62452, spearmanr4: 0.62498, mse4: 0.77029
+    ep: 16, acc2: 0.74453, corrcoef2: 0.54046, spearmanr2: 0.53956
+$ ep: 16, lr: 0.00010, test loss: 0.88354, time: 2021-10-20 18:03:08:
+    ep: 16, acc4: 0.40033, corrcoef4: 0.55271, spearmanr4: 0.55141, mse4: 0.88354
+    ep: 16, acc2: 0.70650, corrcoef2: 0.46835, spearmanr2: 0.46546
+$ ep: 17, lr: 0.00010, train loss: 0.76522, time: 2021-10-20 18:48:39:
+    ep: 17, acc4: 0.43958, corrcoef4: 0.62779, spearmanr4: 0.62779, mse4: 0.76522
+    ep: 17, acc2: 0.74759, corrcoef2: 0.54572, spearmanr2: 0.54402
+$ ep: 17, lr: 0.00010, test loss: 0.90582, time: 2021-10-20 18:52:08:
+    ep: 17, acc4: 0.41617, corrcoef4: 0.55410, spearmanr4: 0.55428, mse4: 0.90582
+    ep: 17, acc2: 0.69933, corrcoef2: 0.47154, spearmanr2: 0.46979
+$ ep: 18, lr: 0.00010, train loss: 0.75379, time: 2021-10-20 19:37:42:
+    ep: 18, acc4: 0.44360, corrcoef4: 0.63498, spearmanr4: 0.63524, mse4: 0.75379
+    ep: 18, acc2: 0.75189, corrcoef2: 0.55181, spearmanr2: 0.55004
+$ ep: 18, lr: 0.00010, test loss: 0.88205, time: 2021-10-20 19:41:13:
+    ep: 18, acc4: 0.40450, corrcoef4: 0.55581, spearmanr4: 0.55418, mse4: 0.88205
+    ep: 18, acc2: 0.70800, corrcoef2: 0.47109, spearmanr2: 0.46782
+$ ep: 19, lr: 0.00010, train loss: 0.74366, time: 2021-10-20 20:25:54:
+    ep: 19, acc4: 0.44650, corrcoef4: 0.64113, spearmanr4: 0.64063, mse4: 0.74366
+    ep: 19, acc2: 0.75157, corrcoef2: 0.55682, spearmanr2: 0.55479
+$ ep: 19, lr: 0.00010, test loss: 0.89266, time: 2021-10-20 20:29:23:
+    ep: 19, acc4: 0.42817, corrcoef4: 0.55562, spearmanr4: 0.55585, mse4: 0.89266
+    ep: 19, acc2: 0.71483, corrcoef2: 0.47463, spearmanr2: 0.47251
+$ ep: 20, lr: 0.00010, train loss: 0.73673, time: 2021-10-20 21:14:49:
+    ep: 20, acc4: 0.45491, corrcoef4: 0.64554, spearmanr4: 0.64452, mse4: 0.73673
+    ep: 20, acc2: 0.75611, corrcoef2: 0.56052, spearmanr2: 0.55856
+$ ep: 20, lr: 0.00010, test loss: 0.88487, time: 2021-10-20 21:18:19:
+    ep: 20, acc4: 0.37983, corrcoef4: 0.55125, spearmanr4: 0.55096, mse4: 0.88487
+    ep: 20, acc2: 0.69733, corrcoef2: 0.46646, spearmanr2: 0.46511
+$ ep: 21, lr: 0.00010, train loss: 0.72635, time: 2021-10-20 22:03:38:
+    ep: 21, acc4: 0.45358, corrcoef4: 0.65163, spearmanr4: 0.65144, mse4: 0.72635
+    ep: 21, acc2: 0.76042, corrcoef2: 0.56886, spearmanr2: 0.56685
+$ ep: 21, lr: 0.00010, test loss: 0.89164, time: 2021-10-20 22:07:05:
+    ep: 21, acc4: 0.40850, corrcoef4: 0.55071, spearmanr4: 0.55126, mse4: 0.89164
+    ep: 21, acc2: 0.70767, corrcoef2: 0.47107, spearmanr2: 0.46974
+$ ep: 22, lr: 0.00010, train loss: 0.71563, time: 2021-10-20 22:51:54:
+    ep: 22, acc4: 0.45990, corrcoef4: 0.65822, spearmanr4: 0.65653, mse4: 0.71563
+    ep: 22, acc2: 0.76287, corrcoef2: 0.57340, spearmanr2: 0.57031
+$ ep: 22, lr: 0.00010, test loss: 0.88606, time: 2021-10-20 22:55:22:
+    ep: 22, acc4: 0.41567, corrcoef4: 0.55483, spearmanr4: 0.55470, mse4: 0.88606
+    ep: 22, acc2: 0.71050, corrcoef2: 0.47216, spearmanr2: 0.46939
+$ ep: 23, lr: 0.00010, train loss: 0.70654, time: 2021-10-20 23:40:22:
+    ep: 23, acc4: 0.46102, corrcoef4: 0.66375, spearmanr4: 0.66302, mse4: 0.70654
+    ep: 23, acc2: 0.76492, corrcoef2: 0.57856, spearmanr2: 0.57598
+$ ep: 23, lr: 0.00010, test loss: 0.89202, time: 2021-10-20 23:43:44:
+    ep: 23, acc4: 0.40967, corrcoef4: 0.55110, spearmanr4: 0.55423, mse4: 0.89202
+    ep: 23, acc2: 0.70850, corrcoef2: 0.47554, spearmanr2: 0.47429
+$ ep: 24, lr: 0.00010, train loss: 0.69880, time: 2021-10-21 00:28:11:
+    ep: 24, acc4: 0.46098, corrcoef4: 0.66821, spearmanr4: 0.66695, mse4: 0.69880
+    ep: 24, acc2: 0.77019, corrcoef2: 0.58575, spearmanr2: 0.58252
+$ ep: 24, lr: 0.00010, test loss: 0.90697, time: 2021-10-21 00:31:40:
+    ep: 24, acc4: 0.41733, corrcoef4: 0.54592, spearmanr4: 0.54594, mse4: 0.90697
+    ep: 24, acc2: 0.70117, corrcoef2: 0.46322, spearmanr2: 0.46143
+$ ep: 25, lr: 0.00010, train loss: 0.69200, time: 2021-10-21 01:17:16:
+    ep: 25, acc4: 0.46870, corrcoef4: 0.67234, spearmanr4: 0.67025, mse4: 0.69200
+    ep: 25, acc2: 0.77140, corrcoef2: 0.58974, spearmanr2: 0.58585
+$ ep: 25, lr: 0.00010, test loss: 0.89936, time: 2021-10-21 01:20:50:
+    ep: 25, acc4: 0.41100, corrcoef4: 0.55134, spearmanr4: 0.55233, mse4: 0.89936
+    ep: 25, acc2: 0.70783, corrcoef2: 0.47286, spearmanr2: 0.47100
+$ ep: 26, lr: 0.00010, train loss: 0.68004, time: 2021-10-21 02:05:40:
+    ep: 26, acc4: 0.47502, corrcoef4: 0.67917, spearmanr4: 0.67697, mse4: 0.68004
+    ep: 26, acc2: 0.77325, corrcoef2: 0.59599, spearmanr2: 0.59181
+$ ep: 26, lr: 0.00010, test loss: 0.91657, time: 2021-10-21 02:09:07:
+    ep: 26, acc4: 0.39383, corrcoef4: 0.53951, spearmanr4: 0.53916, mse4: 0.91657
+    ep: 26, acc2: 0.70183, corrcoef2: 0.45795, spearmanr2: 0.45637
+$ ep: 27, lr: 0.00010, train loss: 0.67296, time: 2021-10-21 02:53:14:
+    ep: 27, acc4: 0.47591, corrcoef4: 0.68341, spearmanr4: 0.68148, mse4: 0.67296
+    ep: 27, acc2: 0.77603, corrcoef2: 0.60060, spearmanr2: 0.59652
+$ ep: 27, lr: 0.00010, test loss: 0.90026, time: 2021-10-21 02:56:41:
+    ep: 27, acc4: 0.40350, corrcoef4: 0.54784, spearmanr4: 0.54880, mse4: 0.90026
+    ep: 27, acc2: 0.70867, corrcoef2: 0.46719, spearmanr2: 0.46633
+$ ep: 28, lr: 0.00010, train loss: 0.66274, time: 2021-10-21 03:40:53:
+    ep: 28, acc4: 0.48166, corrcoef4: 0.68923, spearmanr4: 0.68692, mse4: 0.66274
+    ep: 28, acc2: 0.78202, corrcoef2: 0.60706, spearmanr2: 0.60251
+$ ep: 28, lr: 0.00010, test loss: 0.90580, time: 2021-10-21 03:44:21:
+    ep: 28, acc4: 0.43850, corrcoef4: 0.55383, spearmanr4: 0.55695, mse4: 0.90580
+    ep: 28, acc2: 0.70817, corrcoef2: 0.47355, spearmanr2: 0.47299
+$ ep: 29, lr: 0.00010, train loss: 0.65751, time: 2021-10-21 04:28:30:
+    ep: 29, acc4: 0.48302, corrcoef4: 0.69227, spearmanr4: 0.68961, mse4: 0.65751
+    ep: 29, acc2: 0.78282, corrcoef2: 0.60887, spearmanr2: 0.60408
+$ ep: 29, lr: 0.00010, test loss: 0.94859, time: 2021-10-21 04:31:58:
+    ep: 29, acc4: 0.40383, corrcoef4: 0.53256, spearmanr4: 0.53416, mse4: 0.94859
+    ep: 29, acc2: 0.69683, corrcoef2: 0.45279, spearmanr2: 0.45155
+$ ep: 30, lr: 0.00010, train loss: 0.64601, time: 2021-10-21 05:16:04:
+    ep: 30, acc4: 0.48846, corrcoef4: 0.69873, spearmanr4: 0.69562, mse4: 0.64601
+    ep: 30, acc2: 0.78367, corrcoef2: 0.61498, spearmanr2: 0.61006
+$ ep: 30, lr: 0.00010, test loss: 0.92473, time: 2021-10-21 05:19:31:
+    ep: 30, acc4: 0.41567, corrcoef4: 0.53913, spearmanr4: 0.54111, mse4: 0.92473
+    ep: 30, acc2: 0.69817, corrcoef2: 0.46032, spearmanr2: 0.46002
+$ ep: 31, lr: 0.00010, train loss: 0.63656, time: 2021-10-21 06:03:36:
+    ep: 31, acc4: 0.49191, corrcoef4: 0.70407, spearmanr4: 0.70088, mse4: 0.63656
+    ep: 31, acc2: 0.78777, corrcoef2: 0.61996, spearmanr2: 0.61469
+$ ep: 31, lr: 0.00010, test loss: 0.91866, time: 2021-10-21 06:07:03:
+    ep: 31, acc4: 0.41850, corrcoef4: 0.53787, spearmanr4: 0.54001, mse4: 0.91866
+    ep: 31, acc2: 0.69717, corrcoef2: 0.45988, spearmanr2: 0.45891
+$ ep: 32, lr: 0.00010, train loss: 0.63112, time: 2021-10-21 06:51:08:
+    ep: 32, acc4: 0.49578, corrcoef4: 0.70710, spearmanr4: 0.70385, mse4: 0.63112
+    ep: 32, acc2: 0.79035, corrcoef2: 0.62531, spearmanr2: 0.62034
+$ ep: 32, lr: 0.00010, test loss: 0.93288, time: 2021-10-21 06:54:35:
+    ep: 32, acc4: 0.41767, corrcoef4: 0.53517, spearmanr4: 0.53990, mse4: 0.93288
+    ep: 32, acc2: 0.69650, corrcoef2: 0.45768, spearmanr2: 0.45915
+$ ep: 33, lr: 0.00010, train loss: 0.62337, time: 2021-10-21 07:39:22:
+    ep: 33, acc4: 0.50088, corrcoef4: 0.71146, spearmanr4: 0.70828, mse4: 0.62337
+    ep: 33, acc2: 0.79256, corrcoef2: 0.63020, spearmanr2: 0.62467
+$ ep: 33, lr: 0.00010, test loss: 0.91589, time: 2021-10-21 07:42:49:
+    ep: 33, acc4: 0.40617, corrcoef4: 0.53907, spearmanr4: 0.54247, mse4: 0.91589
+    ep: 33, acc2: 0.69850, corrcoef2: 0.46011, spearmanr2: 0.46009
+$ ep: 34, lr: 0.00010, train loss: 0.61327, time: 2021-10-21 08:27:54:
+    ep: 34, acc4: 0.50591, corrcoef4: 0.71703, spearmanr4: 0.71313, mse4: 0.61327
+    ep: 34, acc2: 0.79662, corrcoef2: 0.63493, spearmanr2: 0.62852
+$ ep: 34, lr: 0.00010, test loss: 0.93553, time: 2021-10-21 08:31:21:
+    ep: 34, acc4: 0.40867, corrcoef4: 0.53192, spearmanr4: 0.53463, mse4: 0.93553
+    ep: 34, acc2: 0.69733, corrcoef2: 0.45483, spearmanr2: 0.45451
+$ ep: 35, lr: 0.00010, train loss: 0.61074, time: 2021-10-21 09:16:24:
+    ep: 35, acc4: 0.50708, corrcoef4: 0.71848, spearmanr4: 0.71491, mse4: 0.61074
+    ep: 35, acc2: 0.79835, corrcoef2: 0.63804, spearmanr2: 0.63167
+$ ep: 35, lr: 0.00010, test loss: 0.94945, time: 2021-10-21 09:19:51:
+    ep: 35, acc4: 0.41100, corrcoef4: 0.53081, spearmanr4: 0.53422, mse4: 0.94945
+    ep: 35, acc2: 0.70017, corrcoef2: 0.45455, spearmanr2: 0.45341
+$ ep: 36, lr: 0.00010, train loss: 0.60486, time: 2021-10-21 10:04:52:
+    ep: 36, acc4: 0.51014, corrcoef4: 0.72174, spearmanr4: 0.71819, mse4: 0.60486
+    ep: 36, acc2: 0.79763, corrcoef2: 0.63957, spearmanr2: 0.63360
+$ ep: 36, lr: 0.00010, test loss: 0.95881, time: 2021-10-21 10:08:19:
+    ep: 36, acc4: 0.40583, corrcoef4: 0.51966, spearmanr4: 0.52532, mse4: 0.95881
+    ep: 36, acc2: 0.69300, corrcoef2: 0.44173, spearmanr2: 0.44369
+$ ep: 37, lr: 0.00010, train loss: 0.59269, time: 2021-10-21 10:53:13:
+    ep: 37, acc4: 0.51247, corrcoef4: 0.72832, spearmanr4: 0.72391, mse4: 0.59269
+    ep: 37, acc2: 0.80350, corrcoef2: 0.64633, spearmanr2: 0.63945
+$ ep: 37, lr: 0.00010, test loss: 0.94019, time: 2021-10-21 10:56:40:
+    ep: 37, acc4: 0.41200, corrcoef4: 0.53174, spearmanr4: 0.53503, mse4: 0.94019
+    ep: 37, acc2: 0.69983, corrcoef2: 0.45345, spearmanr2: 0.45326
+$ ep: 38, lr: 0.00010, train loss: 0.58788, time: 2021-10-21 11:41:45:
+    ep: 38, acc4: 0.51078, corrcoef4: 0.73094, spearmanr4: 0.72627, mse4: 0.58788
+    ep: 38, acc2: 0.80056, corrcoef2: 0.64669, spearmanr2: 0.63997
+$ ep: 38, lr: 0.00010, test loss: 0.95320, time: 2021-10-21 11:45:12:
+    ep: 38, acc4: 0.41633, corrcoef4: 0.52418, spearmanr4: 0.52887, mse4: 0.95320
+    ep: 38, acc2: 0.69817, corrcoef2: 0.44966, spearmanr2: 0.44975
+$ ep: 39, lr: 0.00010, train loss: 0.58093, time: 2021-10-21 12:30:14:
+    ep: 39, acc4: 0.52080, corrcoef4: 0.73470, spearmanr4: 0.73047, mse4: 0.58093
+    ep: 39, acc2: 0.80298, corrcoef2: 0.65119, spearmanr2: 0.64423
+$ ep: 39, lr: 0.00010, test loss: 0.95730, time: 2021-10-21 12:33:36:
+    ep: 39, acc4: 0.40517, corrcoef4: 0.52349, spearmanr4: 0.52696, mse4: 0.95730
+    ep: 39, acc2: 0.70000, corrcoef2: 0.44598, spearmanr2: 0.44581
+$ ep: 40, lr: 0.00010, train loss: 0.57620, time: 2021-10-21 13:18:24:
+    ep: 40, acc4: 0.52438, corrcoef4: 0.73725, spearmanr4: 0.73283, mse4: 0.57620
+    ep: 40, acc2: 0.80607, corrcoef2: 0.65436, spearmanr2: 0.64705
+$ ep: 40, lr: 0.00010, test loss: 0.98618, time: 2021-10-21 13:21:51:
+    ep: 40, acc4: 0.42017, corrcoef4: 0.51424, spearmanr4: 0.51972, mse4: 0.98618
+    ep: 40, acc2: 0.69617, corrcoef2: 0.44151, spearmanr2: 0.44264
+$ ep: 41, lr: 0.00010, train loss: 0.57035, time: 2021-10-21 14:06:44:
+    ep: 41, acc4: 0.52888, corrcoef4: 0.74042, spearmanr4: 0.73544, mse4: 0.57035
+    ep: 41, acc2: 0.81102, corrcoef2: 0.65809, spearmanr2: 0.65043
+$ ep: 41, lr: 0.00010, test loss: 0.97532, time: 2021-10-21 14:10:11:
+    ep: 41, acc4: 0.42417, corrcoef4: 0.52355, spearmanr4: 0.52636, mse4: 0.97532
+    ep: 41, acc2: 0.70167, corrcoef2: 0.44895, spearmanr2: 0.44881
+$ ep: 42, lr: 0.00010, train loss: 0.56543, time: 2021-10-21 14:55:10:
+    ep: 42, acc4: 0.52792, corrcoef4: 0.74303, spearmanr4: 0.73778, mse4: 0.56543
+    ep: 42, acc2: 0.81142, corrcoef2: 0.66256, spearmanr2: 0.65480
+$ ep: 42, lr: 0.00010, test loss: 0.98368, time: 2021-10-21 14:58:33:
+    ep: 42, acc4: 0.42133, corrcoef4: 0.51391, spearmanr4: 0.51812, mse4: 0.98368
+    ep: 42, acc2: 0.68867, corrcoef2: 0.43814, spearmanr2: 0.43861
+$ ep: 43, lr: 0.00010, train loss: 0.55932, time: 2021-10-21 15:43:39:
+    ep: 43, acc4: 0.53620, corrcoef4: 0.74623, spearmanr4: 0.74071, mse4: 0.55932
+    ep: 43, acc2: 0.81356, corrcoef2: 0.66423, spearmanr2: 0.65617
+$ ep: 43, lr: 0.00010, test loss: 0.99748, time: 2021-10-21 15:47:05:
+    ep: 43, acc4: 0.42667, corrcoef4: 0.51654, spearmanr4: 0.52262, mse4: 0.99748
+    ep: 43, acc2: 0.69417, corrcoef2: 0.44086, spearmanr2: 0.44257
+$ ep: 44, lr: 0.00010, train loss: 0.55641, time: 2021-10-21 16:32:11:
+    ep: 44, acc4: 0.53403, corrcoef4: 0.74780, spearmanr4: 0.74357, mse4: 0.55641
+    ep: 44, acc2: 0.81344, corrcoef2: 0.66695, spearmanr2: 0.65972
+$ ep: 44, lr: 0.00010, test loss: 1.01385, time: 2021-10-21 16:35:40:
+    ep: 44, acc4: 0.41067, corrcoef4: 0.51717, spearmanr4: 0.52094, mse4: 1.01385
+    ep: 44, acc2: 0.69867, corrcoef2: 0.44750, spearmanr2: 0.44686
+$ ep: 45, lr: 0.00010, train loss: 0.55313, time: 2021-10-21 17:21:19:
+    ep: 45, acc4: 0.53878, corrcoef4: 0.74952, spearmanr4: 0.74508, mse4: 0.55313
+    ep: 45, acc2: 0.81412, corrcoef2: 0.66675, spearmanr2: 0.65970
+$ ep: 45, lr: 0.00010, test loss: 0.99127, time: 2021-10-21 17:24:48:
+    ep: 45, acc4: 0.39800, corrcoef4: 0.50321, spearmanr4: 0.50771, mse4: 0.99127
+    ep: 45, acc2: 0.68617, corrcoef2: 0.43144, spearmanr2: 0.43176
+$ ep: 46, lr: 0.00010, train loss: 0.54873, time: 2021-10-21 18:09:47:
+    ep: 46, acc4: 0.53781, corrcoef4: 0.75181, spearmanr4: 0.74714, mse4: 0.54873
+    ep: 46, acc2: 0.81625, corrcoef2: 0.66906, spearmanr2: 0.66164
+$ ep: 46, lr: 0.00010, test loss: 0.99009, time: 2021-10-21 18:13:14:
+    ep: 46, acc4: 0.41200, corrcoef4: 0.51309, spearmanr4: 0.51612, mse4: 0.99009
+    ep: 46, acc2: 0.69250, corrcoef2: 0.43954, spearmanr2: 0.43898
+$ ep: 47, lr: 0.00010, train loss: 0.53802, time: 2021-10-21 18:58:10:
+    ep: 47, acc4: 0.54835, corrcoef4: 0.75749, spearmanr4: 0.75310, mse4: 0.53802
+    ep: 47, acc2: 0.81951, corrcoef2: 0.67386, spearmanr2: 0.66662
+$ ep: 47, lr: 0.00010, test loss: 1.05069, time: 2021-10-21 19:01:38:
+    ep: 47, acc4: 0.39817, corrcoef4: 0.50717, spearmanr4: 0.50936, mse4: 1.05069
+    ep: 47, acc2: 0.69317, corrcoef2: 0.43614, spearmanr2: 0.43499
+$ ep: 48, lr: 0.00010, train loss: 0.54033, time: 2021-10-21 19:46:41:
+    ep: 48, acc4: 0.54300, corrcoef4: 0.75624, spearmanr4: 0.75137, mse4: 0.54033
+    ep: 48, acc2: 0.81907, corrcoef2: 0.67527, spearmanr2: 0.66785
+$ ep: 48, lr: 0.00010, test loss: 0.98384, time: 2021-10-21 19:50:10:
+    ep: 48, acc4: 0.40217, corrcoef4: 0.50568, spearmanr4: 0.50849, mse4: 0.98384
+    ep: 48, acc2: 0.68900, corrcoef2: 0.43224, spearmanr2: 0.43109
+$ ep: 49, lr: 0.00010, train loss: 0.53463, time: 2021-10-21 20:35:11:
+    ep: 49, acc4: 0.54224, corrcoef4: 0.75927, spearmanr4: 0.75431, mse4: 0.53463
+    ep: 49, acc2: 0.81742, corrcoef2: 0.67586, spearmanr2: 0.66821
+$ ep: 49, lr: 0.00010, test loss: 0.99621, time: 2021-10-21 20:38:33:
+    ep: 49, acc4: 0.40867, corrcoef4: 0.50641, spearmanr4: 0.51106, mse4: 0.99621
+    ep: 49, acc2: 0.69133, corrcoef2: 0.43436, spearmanr2: 0.43486
+$ ep: 50, lr: 0.00010, train loss: 0.52536, time: 2021-10-21 21:23:37:
+    ep: 50, acc4: 0.54907, corrcoef4: 0.76404, spearmanr4: 0.75846, mse4: 0.52536
+    ep: 50, acc2: 0.82224, corrcoef2: 0.68166, spearmanr2: 0.67371
+$ ep: 50, lr: 0.00010, test loss: 1.00397, time: 2021-10-21 21:27:04:
+    ep: 50, acc4: 0.41517, corrcoef4: 0.50550, spearmanr4: 0.50704, mse4: 1.00397
+    ep: 50, acc2: 0.69550, corrcoef2: 0.43339, spearmanr2: 0.43134
+$ ep: 51, lr: 0.00010, train loss: 0.52690, time: 2021-10-21 22:11:59:
+    ep: 51, acc4: 0.55418, corrcoef4: 0.76324, spearmanr4: 0.75816, mse4: 0.52690
+    ep: 51, acc2: 0.82164, corrcoef2: 0.68183, spearmanr2: 0.67419
+$ ep: 51, lr: 0.00010, test loss: 1.02170, time: 2021-10-21 22:15:22:
+    ep: 51, acc4: 0.40667, corrcoef4: 0.50209, spearmanr4: 0.50476, mse4: 1.02170
+    ep: 51, acc2: 0.68800, corrcoef2: 0.42890, spearmanr2: 0.42899
+$ ep: 52, lr: 0.00010, train loss: 0.51759, time: 2021-10-21 23:00:16:
+    ep: 52, acc4: 0.55684, corrcoef4: 0.76809, spearmanr4: 0.76246, mse4: 0.51759
+    ep: 52, acc2: 0.82558, corrcoef2: 0.68613, spearmanr2: 0.67727
+$ ep: 52, lr: 0.00010, test loss: 1.03630, time: 2021-10-21 23:03:43:
+    ep: 52, acc4: 0.39567, corrcoef4: 0.51117, spearmanr4: 0.51394, mse4: 1.03630
+    ep: 52, acc2: 0.69800, corrcoef2: 0.43926, spearmanr2: 0.43825
+$ ep: 53, lr: 0.00010, train loss: 0.51885, time: 2021-10-21 23:48:35:
+    ep: 53, acc4: 0.55555, corrcoef4: 0.76741, spearmanr4: 0.76375, mse4: 0.51885
+    ep: 53, acc2: 0.82743, corrcoef2: 0.68628, spearmanr2: 0.67911
+$ ep: 53, lr: 0.00010, test loss: 1.01705, time: 2021-10-21 23:52:03:
+    ep: 53, acc4: 0.41933, corrcoef4: 0.50320, spearmanr4: 0.50638, mse4: 1.01705
+    ep: 53, acc2: 0.69417, corrcoef2: 0.43260, spearmanr2: 0.43166
+$ ep: 54, lr: 0.00010, train loss: 0.51575, time: 2021-10-22 00:37:03:
+    ep: 54, acc4: 0.55764, corrcoef4: 0.76904, spearmanr4: 0.76477, mse4: 0.51575
+    ep: 54, acc2: 0.82776, corrcoef2: 0.68827, spearmanr2: 0.68110
+$ ep: 54, lr: 0.00010, test loss: 1.00574, time: 2021-10-22 00:40:31:
+    ep: 54, acc4: 0.39200, corrcoef4: 0.49986, spearmanr4: 0.50583, mse4: 1.00574
+    ep: 54, acc2: 0.68650, corrcoef2: 0.42927, spearmanr2: 0.43093
+$ ep: 55, lr: 0.00010, train loss: 0.50507, time: 2021-10-22 01:25:32:
+    ep: 55, acc4: 0.55929, corrcoef4: 0.77449, spearmanr4: 0.77034, mse4: 0.50507
+    ep: 55, acc2: 0.82844, corrcoef2: 0.69330, spearmanr2: 0.68586
+$ ep: 55, lr: 0.00010, test loss: 1.00978, time: 2021-10-22 01:29:00:
+    ep: 55, acc4: 0.39633, corrcoef4: 0.50483, spearmanr4: 0.50830, mse4: 1.00978
+    ep: 55, acc2: 0.69600, corrcoef2: 0.43561, spearmanr2: 0.43544
+$ ep: 56, lr: 0.00010, train loss: 0.50617, time: 2021-10-22 02:13:56:
+    ep: 56, acc4: 0.56146, corrcoef4: 0.77395, spearmanr4: 0.77019, mse4: 0.50617
+    ep: 56, acc2: 0.82763, corrcoef2: 0.69329, spearmanr2: 0.68621
+$ ep: 56, lr: 0.00010, test loss: 1.04251, time: 2021-10-22 02:17:25:
+    ep: 56, acc4: 0.40867, corrcoef4: 0.50595, spearmanr4: 0.50867, mse4: 1.04251
+    ep: 56, acc2: 0.69217, corrcoef2: 0.42978, spearmanr2: 0.42943
+$ ep: 57, lr: 0.00010, train loss: 0.49338, time: 2021-10-22 03:02:34:
+    ep: 57, acc4: 0.56633, corrcoef4: 0.78044, spearmanr4: 0.77640, mse4: 0.49338
+    ep: 57, acc2: 0.83238, corrcoef2: 0.69979, spearmanr2: 0.69217
+$ ep: 57, lr: 0.00010, test loss: 1.03200, time: 2021-10-22 03:05:56:
+    ep: 57, acc4: 0.39783, corrcoef4: 0.49328, spearmanr4: 0.49559, mse4: 1.03200
+    ep: 57, acc2: 0.68950, corrcoef2: 0.42223, spearmanr2: 0.42146
+$ ep: 58, lr: 0.00010, train loss: 0.49410, time: 2021-10-22 03:50:46:
+    ep: 58, acc4: 0.57152, corrcoef4: 0.78012, spearmanr4: 0.77581, mse4: 0.49410
+    ep: 58, acc2: 0.83294, corrcoef2: 0.69932, spearmanr2: 0.69166
+$ ep: 58, lr: 0.00010, test loss: 1.01397, time: 2021-10-22 03:54:13:
+    ep: 58, acc4: 0.40067, corrcoef4: 0.50747, spearmanr4: 0.50771, mse4: 1.01397
+    ep: 58, acc2: 0.69900, corrcoef2: 0.43929, spearmanr2: 0.43638
+$ ep: 59, lr: 0.00010, train loss: 0.49014, time: 2021-10-22 04:38:42:
+    ep: 59, acc4: 0.57293, corrcoef4: 0.78208, spearmanr4: 0.77819, mse4: 0.49014
+    ep: 59, acc2: 0.83262, corrcoef2: 0.70098, spearmanr2: 0.69394
+$ ep: 59, lr: 0.00010, test loss: 1.01473, time: 2021-10-22 04:42:15:
+    ep: 59, acc4: 0.40683, corrcoef4: 0.50058, spearmanr4: 0.50396, mse4: 1.01473
+    ep: 59, acc2: 0.69267, corrcoef2: 0.42910, spearmanr2: 0.42847
+$ ep: 60, lr: 0.00010, train loss: 0.48514, time: 2021-10-22 05:28:23:
+    ep: 60, acc4: 0.57341, corrcoef4: 0.78459, spearmanr4: 0.78054, mse4: 0.48514
+    ep: 60, acc2: 0.83596, corrcoef2: 0.70413, spearmanr2: 0.69656
+$ ep: 60, lr: 0.00010, test loss: 1.00087, time: 2021-10-22 05:31:56:
+    ep: 60, acc4: 0.41250, corrcoef4: 0.50792, spearmanr4: 0.51009, mse4: 1.00087
+    ep: 60, acc2: 0.70050, corrcoef2: 0.44028, spearmanr2: 0.43911
+$ ep: 61, lr: 0.00010, train loss: 0.48028, time: 2021-10-22 06:17:28:
+    ep: 61, acc4: 0.57655, corrcoef4: 0.78707, spearmanr4: 0.78290, mse4: 0.48028
+    ep: 61, acc2: 0.83701, corrcoef2: 0.70569, spearmanr2: 0.69771
+$ ep: 61, lr: 0.00010, test loss: 1.02662, time: 2021-10-22 06:21:06:
+    ep: 61, acc4: 0.40367, corrcoef4: 0.49030, spearmanr4: 0.49490, mse4: 1.02662
+    ep: 61, acc2: 0.69133, corrcoef2: 0.42530, spearmanr2: 0.42585
+$ ep: 62, lr: 0.00010, train loss: 0.48193, time: 2021-10-22 07:33:55:
+    ep: 62, acc4: 0.57542, corrcoef4: 0.78626, spearmanr4: 0.78290, mse4: 0.48193
+    ep: 62, acc2: 0.83580, corrcoef2: 0.70404, spearmanr2: 0.69724
+$ ep: 62, lr: 0.00010, test loss: 1.02831, time: 2021-10-22 07:40:28:
+    ep: 62, acc4: 0.41733, corrcoef4: 0.50039, spearmanr4: 0.50375, mse4: 1.02831
+    ep: 62, acc2: 0.69033, corrcoef2: 0.42816, spearmanr2: 0.42828
+$ ep: 63, lr: 0.00010, train loss: 0.47951, time: 2021-10-22 08:42:27:
+    ep: 63, acc4: 0.57735, corrcoef4: 0.78746, spearmanr4: 0.78414, mse4: 0.47951
+    ep: 63, acc2: 0.83552, corrcoef2: 0.70751, spearmanr2: 0.69992
+$ ep: 63, lr: 0.00010, test loss: 1.04932, time: 2021-10-22 08:46:12:
+    ep: 63, acc4: 0.40950, corrcoef4: 0.48973, spearmanr4: 0.49337, mse4: 1.04932
+    ep: 63, acc2: 0.68467, corrcoef2: 0.41759, spearmanr2: 0.41806
+$ ep: 64, lr: 0.00010, train loss: 0.47600, time: 2021-10-22 09:31:12:
+    ep: 64, acc4: 0.57940, corrcoef4: 0.78921, spearmanr4: 0.78596, mse4: 0.47600
+    ep: 64, acc2: 0.83504, corrcoef2: 0.70784, spearmanr2: 0.70113
+$ ep: 64, lr: 0.00010, test loss: 1.04969, time: 2021-10-22 09:34:41:
+    ep: 64, acc4: 0.40767, corrcoef4: 0.50435, spearmanr4: 0.50571, mse4: 1.04969
+    ep: 64, acc2: 0.69433, corrcoef2: 0.43485, spearmanr2: 0.43305
+$ ep: 65, lr: 0.00010, train loss: 0.47067, time: 2021-10-22 10:19:26:
+    ep: 65, acc4: 0.58411, corrcoef4: 0.79189, spearmanr4: 0.78877, mse4: 0.47067
+    ep: 65, acc2: 0.83789, corrcoef2: 0.71010, spearmanr2: 0.70321
+$ ep: 65, lr: 0.00010, test loss: 1.04709, time: 2021-10-22 10:22:48:
+    ep: 65, acc4: 0.40383, corrcoef4: 0.48968, spearmanr4: 0.49201, mse4: 1.04709
+    ep: 65, acc2: 0.68717, corrcoef2: 0.41965, spearmanr2: 0.41892
+$ ep: 66, lr: 0.00010, train loss: 0.46854, time: 2021-10-22 11:08:02:
+    ep: 66, acc4: 0.58894, corrcoef4: 0.79296, spearmanr4: 0.78903, mse4: 0.46854
+    ep: 66, acc2: 0.84220, corrcoef2: 0.71452, spearmanr2: 0.70713
+$ ep: 66, lr: 0.00010, test loss: 1.04462, time: 2021-10-22 11:11:30:
+    ep: 66, acc4: 0.41833, corrcoef4: 0.49784, spearmanr4: 0.50177, mse4: 1.04462
+    ep: 66, acc2: 0.68950, corrcoef2: 0.43053, spearmanr2: 0.43048
+$ ep: 67, lr: 0.00010, train loss: 0.46428, time: 2021-10-22 11:56:45:
+    ep: 67, acc4: 0.58717, corrcoef4: 0.79512, spearmanr4: 0.79152, mse4: 0.46428
+    ep: 67, acc2: 0.83910, corrcoef2: 0.71315, spearmanr2: 0.70645
+$ ep: 67, lr: 0.00010, test loss: 1.03638, time: 2021-10-22 12:00:14:
+    ep: 67, acc4: 0.41083, corrcoef4: 0.49931, spearmanr4: 0.50209, mse4: 1.03638
+    ep: 67, acc2: 0.68917, corrcoef2: 0.42911, spearmanr2: 0.42885
+$ ep: 68, lr: 0.00010, train loss: 0.46329, time: 2021-10-22 12:45:12:
+    ep: 68, acc4: 0.58970, corrcoef4: 0.79556, spearmanr4: 0.79304, mse4: 0.46329
+    ep: 68, acc2: 0.84055, corrcoef2: 0.71520, spearmanr2: 0.70918
+$ ep: 68, lr: 0.00010, test loss: 1.03381, time: 2021-10-22 12:48:38:
+    ep: 68, acc4: 0.41433, corrcoef4: 0.49529, spearmanr4: 0.49866, mse4: 1.03381
+    ep: 68, acc2: 0.69000, corrcoef2: 0.42486, spearmanr2: 0.42458
+$ ep: 69, lr: 0.00010, train loss: 0.45904, time: 2021-10-22 13:33:37:
+    ep: 69, acc4: 0.58809, corrcoef4: 0.79769, spearmanr4: 0.79545, mse4: 0.45904
+    ep: 69, acc2: 0.84010, corrcoef2: 0.71663, spearmanr2: 0.71075
+$ ep: 69, lr: 0.00010, test loss: 1.06570, time: 2021-10-22 13:37:06:
+    ep: 69, acc4: 0.41817, corrcoef4: 0.48651, spearmanr4: 0.49068, mse4: 1.06570
+    ep: 69, acc2: 0.68300, corrcoef2: 0.41966, spearmanr2: 0.41996
+$ ep: 70, lr: 0.00010, train loss: 0.45315, time: 2021-10-22 14:22:23:
+    ep: 70, acc4: 0.59405, corrcoef4: 0.80059, spearmanr4: 0.79780, mse4: 0.45315
+    ep: 70, acc2: 0.84296, corrcoef2: 0.71970, spearmanr2: 0.71335
+$ ep: 70, lr: 0.00010, test loss: 1.09884, time: 2021-10-22 14:25:54:
+    ep: 70, acc4: 0.38667, corrcoef4: 0.48437, spearmanr4: 0.48537, mse4: 1.09884
+    ep: 70, acc2: 0.68450, corrcoef2: 0.41808, spearmanr2: 0.41703
+$ ep: 71, lr: 0.00010, train loss: 0.45007, time: 2021-10-22 15:10:52:
+    ep: 71, acc4: 0.59710, corrcoef4: 0.80215, spearmanr4: 0.79968, mse4: 0.45007
+    ep: 71, acc2: 0.84208, corrcoef2: 0.71837, spearmanr2: 0.71256
+$ ep: 71, lr: 0.00010, test loss: 1.04309, time: 2021-10-22 15:14:20:
+    ep: 71, acc4: 0.40733, corrcoef4: 0.49385, spearmanr4: 0.49380, mse4: 1.04309
+    ep: 71, acc2: 0.68850, corrcoef2: 0.42288, spearmanr2: 0.42060
+$ ep: 72, lr: 0.00010, train loss: 0.44921, time: 2021-10-22 15:59:31:
+    ep: 72, acc4: 0.59694, corrcoef4: 0.80254, spearmanr4: 0.80054, mse4: 0.44921
+    ep: 72, acc2: 0.84264, corrcoef2: 0.72062, spearmanr2: 0.71504
+$ ep: 72, lr: 0.00010, test loss: 1.11417, time: 2021-10-22 16:02:59:
+    ep: 72, acc4: 0.37350, corrcoef4: 0.46950, spearmanr4: 0.47083, mse4: 1.11417
+    ep: 72, acc2: 0.67867, corrcoef2: 0.40703, spearmanr2: 0.40736
+$ ep: 73, lr: 0.00010, train loss: 0.44433, time: 2021-10-22 16:48:03:
+    ep: 73, acc4: 0.60040, corrcoef4: 0.80496, spearmanr4: 0.80224, mse4: 0.44433
+    ep: 73, acc2: 0.84545, corrcoef2: 0.72290, spearmanr2: 0.71670
+$ ep: 73, lr: 0.00010, test loss: 1.06000, time: 2021-10-22 16:51:31:
+    ep: 73, acc4: 0.40400, corrcoef4: 0.48790, spearmanr4: 0.48839, mse4: 1.06000
+    ep: 73, acc2: 0.68733, corrcoef2: 0.41988, spearmanr2: 0.41884
+$ ep: 74, lr: 0.00010, train loss: 0.44216, time: 2021-10-22 17:36:23:
+    ep: 74, acc4: 0.60515, corrcoef4: 0.80600, spearmanr4: 0.80388, mse4: 0.44216
+    ep: 74, acc2: 0.84449, corrcoef2: 0.72235, spearmanr2: 0.71654
+$ ep: 74, lr: 0.00010, test loss: 1.05961, time: 2021-10-22 17:39:52:
+    ep: 74, acc4: 0.38350, corrcoef4: 0.47000, spearmanr4: 0.47155, mse4: 1.05961
+    ep: 74, acc2: 0.68200, corrcoef2: 0.40130, spearmanr2: 0.40166
+$ ep: 75, lr: 0.00010, train loss: 0.43926, time: 2021-10-22 18:24:52:
+    ep: 75, acc4: 0.60278, corrcoef4: 0.80744, spearmanr4: 0.80563, mse4: 0.43926
+    ep: 75, acc2: 0.84759, corrcoef2: 0.72602, spearmanr2: 0.72061
+$ ep: 75, lr: 0.00010, test loss: 1.06249, time: 2021-10-22 18:28:14:
+    ep: 75, acc4: 0.41183, corrcoef4: 0.49106, spearmanr4: 0.49453, mse4: 1.06249
+    ep: 75, acc2: 0.69083, corrcoef2: 0.41709, spearmanr2: 0.41717
+$ ep: 76, lr: 0.00010, train loss: 0.43484, time: 2021-10-22 19:13:23:
+    ep: 76, acc4: 0.60434, corrcoef4: 0.80961, spearmanr4: 0.80767, mse4: 0.43484
+    ep: 76, acc2: 0.84903, corrcoef2: 0.72729, spearmanr2: 0.72138
+$ ep: 76, lr: 0.00010, test loss: 1.07962, time: 2021-10-22 19:16:53:
+    ep: 76, acc4: 0.39283, corrcoef4: 0.47659, spearmanr4: 0.47816, mse4: 1.07962
+    ep: 76, acc2: 0.68717, corrcoef2: 0.40898, spearmanr2: 0.40751
+$ ep: 77, lr: 0.00010, train loss: 0.43438, time: 2021-10-22 20:01:49:
+    ep: 77, acc4: 0.60865, corrcoef4: 0.80983, spearmanr4: 0.80761, mse4: 0.43438
+    ep: 77, acc2: 0.84879, corrcoef2: 0.72900, spearmanr2: 0.72347
+$ ep: 77, lr: 0.00010, test loss: 1.05515, time: 2021-10-22 20:05:16:
+    ep: 77, acc4: 0.40933, corrcoef4: 0.48927, spearmanr4: 0.49097, mse4: 1.05515
+    ep: 77, acc2: 0.68633, corrcoef2: 0.41868, spearmanr2: 0.41686
+$ ep: 78, lr: 0.00010, train loss: 0.43207, time: 2021-10-22 20:50:49:
+    ep: 78, acc4: 0.60825, corrcoef4: 0.81097, spearmanr4: 0.80906, mse4: 0.43207
+    ep: 78, acc2: 0.84610, corrcoef2: 0.72661, spearmanr2: 0.72188
+$ ep: 78, lr: 0.00010, test loss: 1.05534, time: 2021-10-22 20:54:18:
+    ep: 78, acc4: 0.38850, corrcoef4: 0.47952, spearmanr4: 0.47897, mse4: 1.05534
+    ep: 78, acc2: 0.68417, corrcoef2: 0.41439, spearmanr2: 0.41259
+$ ep: 79, lr: 0.00010, train loss: 0.42612, time: 2021-10-22 21:39:18:
+    ep: 79, acc4: 0.61287, corrcoef4: 0.81386, spearmanr4: 0.81286, mse4: 0.42612
+    ep: 79, acc2: 0.84771, corrcoef2: 0.73024, spearmanr2: 0.72571
+$ ep: 79, lr: 0.00010, test loss: 1.05817, time: 2021-10-22 21:42:46:
+    ep: 79, acc4: 0.40400, corrcoef4: 0.48837, spearmanr4: 0.48792, mse4: 1.05817
+    ep: 79, acc2: 0.69283, corrcoef2: 0.42281, spearmanr2: 0.42079
+$ ep: 80, lr: 0.00010, train loss: 0.42356, time: 2021-10-22 22:27:45:
+    ep: 80, acc4: 0.61138, corrcoef4: 0.81512, spearmanr4: 0.81335, mse4: 0.42356
+    ep: 80, acc2: 0.85093, corrcoef2: 0.73310, spearmanr2: 0.72820
+$ ep: 80, lr: 0.00010, test loss: 1.06988, time: 2021-10-22 22:31:13:
+    ep: 80, acc4: 0.40283, corrcoef4: 0.49267, spearmanr4: 0.49393, mse4: 1.06988
+    ep: 80, acc2: 0.69150, corrcoef2: 0.42506, spearmanr2: 0.42369
+$ ep: 81, lr: 0.00010, train loss: 0.41945, time: 2021-10-22 23:16:07:
+    ep: 81, acc4: 0.61710, corrcoef4: 0.81709, spearmanr4: 0.81527, mse4: 0.41945
+    ep: 81, acc2: 0.85265, corrcoef2: 0.73494, spearmanr2: 0.72972
+$ ep: 81, lr: 0.00010, test loss: 1.10540, time: 2021-10-22 23:19:35:
+    ep: 81, acc4: 0.38967, corrcoef4: 0.47799, spearmanr4: 0.47840, mse4: 1.10540
+    ep: 81, acc2: 0.68467, corrcoef2: 0.41087, spearmanr2: 0.40975
+$ ep: 82, lr: 0.00010, train loss: 0.41649, time: 2021-10-23 00:04:33:
+    ep: 82, acc4: 0.61923, corrcoef4: 0.81854, spearmanr4: 0.81646, mse4: 0.41649
+    ep: 82, acc2: 0.85181, corrcoef2: 0.73491, spearmanr2: 0.72945
+$ ep: 82, lr: 0.00010, test loss: 1.11720, time: 2021-10-23 00:08:03:
+    ep: 82, acc4: 0.37750, corrcoef4: 0.46734, spearmanr4: 0.46872, mse4: 1.11720
+    ep: 82, acc2: 0.67767, corrcoef2: 0.40438, spearmanr2: 0.40420
