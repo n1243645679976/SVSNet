@@ -1,11 +1,8 @@
-import torch
 import os
-FEAT_PATH = '../../feature/sim_net/wav'
-LIST_PATH = '../../feature/sim_net/'
-MODEL_PATH = './logdir/'
+import tqdm
+import torch
+import numpy as np
 
-testing_list = 'sim_list_test.txt'
-training_list = 'sim_list_train.txt'
 # FEAT_PATH = '../../feature/VCC20/VCC2020-listeningtest/'
 # LIST_PATH = '../../dataset/VCC20/VCC2020-listeningtest-info/VCC202-listeningtest-scores/vcc20_all.txt'
 
@@ -30,16 +27,18 @@ class Dataset(torch.utils.data.Dataset):
             return len(self.test_list)
 
     def load_list(self, list_name):
+        print(f'Loading features from {list_name}')
         with open(os.path.join(list_name)) as f:
             file_list = f.read().splitlines()
-            for i in range(len(file_list)):
+            for i in tqdm.tqdm(range(len(file_list))):
                 x1, x2, _, _ = file_list[i].split(',')
                 if x1.split('.')[0] not in self.X:
                     self.X[x1.split('.')[0]] = torch.load(os.path.join(self.feat_path, x1.split('.')[0]+'.wav.pt'))['wav'].to(self.device).reshape(1,-1)
                 if x2.split('.')[0] not in self.X:
                     self.X[x2.split('.')[0]] = torch.load(os.path.join(self.feat_path, x2.split('.')[0]+'.wav.pt'))['wav'].to(self.device).reshape(1,-1)
+        return file_list
 
-    def change_mode(self, str, ep):
+    def change_mode(self, str):
         if str == 'train':
             self.train=True
         elif str == 'test':
@@ -57,4 +56,4 @@ class Dataset(torch.utils.data.Dataset):
         #     r = x2 + ' ' + x1
         # else:
         #     r = x1 + ' ' + x2
-        return (X1, X2), torch.tensor([int(similarity)-1]).to(self.device), x1 + ' ' + x2
+        return (X1, X2), torch.tensor([float(similarity)-1]).to(self.device), x1 + ' ' + x2
