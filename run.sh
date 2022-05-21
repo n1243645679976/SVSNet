@@ -1,15 +1,15 @@
 database="../../dataset/VCC2018/wav/"
-feat_dir="../../feature/test_vcc2018_for_delete/wav"
+feat_dir="../../feature/VCC2018/wav/"
 exp_dir="result/VCC2018"
 
 database_vcc20="../../dataset/VCC2020/"
-feat_dir_vcc20="../../feature/test_VCC2020_for_delete/wav/"
+feat_dir_vcc20="../../feature/VCC2020/wav/"
 exp_dir_vcc20="result/VCC2020"
 
 model_type="regression"
 resume=""
 
-stage=5
+stage=0
 stop_stage=5
 set -u
 
