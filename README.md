@@ -1,5 +1,8 @@
 # README
 
+## Introduction
+This is the repository of paper [SVSNet](https://arxiv.org/abs/2107.09392).
+
 ## How to use
 Refer to `run.sh`, we split the experiments into 5 stages:
 
