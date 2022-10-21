@@ -7,7 +7,7 @@ This is the official repository of the paper [SVSNet: An End-to-end Speaker Voic
 Refer to `run.sh`, we split the experiments into 5 stages:
 
 ### Stage 0:
-We extract all the waveform from `database-dir` to `output-dir`. (Note that downsampling is donw in this step)
+We extract all the waveform from `database-dir` to `output-dir`. (Note that downsampling is done in this step)
 
 
 ```
